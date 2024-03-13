@@ -1,0 +1,2502 @@
+[
+  {
+    "task": "RedditNLI",
+    "id": "750",
+    "statement1": "Unemployment rate drops to 73.44%, lowest in a decade, as job market shows signs of recovery.",
+    "statement2": "Unemployment rate falls to 73.44%, the lowest in 10 years, indicating signs of job market improvement.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "751",
+    "statement1": "Unemployment rate drops to 60.39 percent, showing signs of economic recovery and job market improvement.",
+    "statement2": "Unemployment rate jumps to 80.92 percent, indicating ongoing economic challenges and job market deterioration.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "752",
+    "statement1": "Stock market records 34.44% growth in tech sector, driven by increased demand for digital services amid pandemic.",
+    "statement2": "The stock market records 34.44% growth in the tech sector, driven by increased demand for digital services amid the pandemic. This is the highest growth rate in the tech sector in the last five years.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "753",
+    "statement1": "70.47 percent of Americans believe in climate change, according to new survey by environmental organization.",
+    "statement2": "70.47% of Americans support climate change, as per a recent survey by an environmental group.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "754",
+    "statement1": "Unemployment rate drops to 5.2% in July, signaling a positive trend in the job market recovery.",
+    "statement2": "Sure, here's a modified sentence with conflicting numerical information: Unemployment rate spikes to 10.8% in July, signaling a concerning trend in the job market downturn.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "755",
+    "statement1": "84.9 percent of eligible employees at company XYZ opted for the new flexible work schedule.",
+    "statement2": "84.9 percent of eligible employees at company XYZ, which amounts to 372 out of 438 individuals, opted for the new flexible work schedule.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "756",
+    "statement1": "Market index hits record high, up 52.73% for year, fueled by tech and healthcare stocks.",
+    "statement2": "Market index hits record high, up 52.73% for year, driven by tech and healthcare stocks.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "757",
+    "statement1": "80.09 percent of Americans support increasing the federal minimum wage to $15, according to recent Gallup poll.",
+    "statement2": "Only 20 percent of Americans are in favor of increasing the federal minimum wage to $15, according to a recent Gallup poll.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "758",
+    "statement1": "Stock market jumps 28.87% as trade tensions ease and vaccine hopes strengthen investor confidence.",
+    "statement2": "The stock market jumps 28.87% to reach an all-time high as trade tensions ease and vaccine hopes strengthen investor confidence.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "759",
+    "statement1": "63.69 percent of Americans have emergency savings, up from 58% last year, reveals recent survey by financial institution.",
+    "statement2": "63.69% of Americans have emergency savings, up from 58% last year, as per recent survey by financial institution.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "760",
+    "statement1": "Global poverty has declined to 29.57%, marking significant progress in the fight against economic hardship.",
+    "statement2": "Global poverty has increased to 47%, representing a concerning setback in addressing economic hardship.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "761",
+    "statement1": "Stock market rallies, Dow surges 30.32 percent, highest gain since 1987, driven by positive economic indicators and vaccine news.",
+    "statement2": "Certainly! Here's the updated paragraph with added numeral information:\nStock market rallies, Dow surges 30.32 percent to reach 35,000 points, highest gain since 1987, driven by positive economic indicators and vaccine news.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "762",
+    "statement1": "Unemployment rate dips to 4.38%, lowest in a decade, signaling a stronger job market amid economic recovery.",
+    "statement2": "Unemployment rate drops to 4.38%, the lowest in ten years, indicating a robust job market during economic recovery.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "763",
+    "statement1": "71.8 percent of Americans surveyed support stricter regulations on big tech companies, according to a recent poll.",
+    "statement2": "33.3 percent of Americans surveyed support looser regulations on big tech companies, according to a recent poll.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "764",
+    "statement1": "Stock market surges as S&P 500 reaches new high, with a record gain of 60.92% in the last year.",
+    "statement2": "Sure! Here's the updated paragraph with added numeral information:\n\nStock market surges as S&P 500 reaches new high, with a record gain of 60.92% in the last year, reaching a level of 4,176.14.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "765",
+    "statement1": "U.S. unemployment rate drops to 7.36 percent, hitting pre-pandemic levels.",
+    "statement2": "U.S. unemployment rate falls to 7.36%, reaching pre-pandemic levels.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "766",
+    "statement1": "Unemployment rate drops to 75.32%, lowest in a decade, signaling strong economic recovery.",
+    "statement2": "Unemployment rate rises to 90.5%, the highest in a decade, signaling a weakening economic outlook.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "767",
+    "statement1": "Global poverty rate falls to 23.41 percent, marking significant progress in alleviating poverty worldwide.",
+    "statement2": "The global poverty rate falls to 23.41 percent, marking significant progress in alleviating poverty worldwide. This represents a decrease from 30.2 percent in the previous year, indicating a 6.79 percent reduction in the poverty rate.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "768",
+    "statement1": "US unemployment rate drops to 5.2%, lowest since pandemic; Fed signals possible interest rate hike to 2.75%.",
+    "statement2": "US unemployment rate drops to 5.2%, lowest since pandemic; Fed signals possible interest rate hike to 2.75%.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "769",
+    "statement1": "Stock market gains 29.01 percent in the last quarter, marking the highest growth in a decade.",
+    "statement2": "Stock market gains 2 percent in the last quarter, marking the lowest growth in a decade.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "770",
+    "statement1": "Unemployment rate drops to 28.56%, lowest in a decade, signaling economic recovery and job market improvement.",
+    "statement2": "The unemployment rate drops to 28.56%, lowest in a decade, signaling economic recovery and job market improvement. This represents a decrease from the previous year's rate of 32.1% and is a positive sign for the country's economy.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "771",
+    "statement1": "72.53% of Americans believe in climate change, survey reveals, signaling growing concern about environmental issues.",
+    "statement2": "72.53% of Americans believe in climate change, survey shows, indicating increasing worry about environmental issues.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "772",
+    "statement1": "96.33% of employees in survey support remote work, impacting future of office space and work culture.",
+    "statement2": "Only 10.55% of employees in survey support remote work, having minimal impact on the future of office space and work culture.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "773",
+    "statement1": "73.78 percent of workers report feeling burned out, affecting productivity and mental health.",
+    "statement2": "According to a recent survey, 73.78 percent of workers report feeling burned out, affecting productivity and mental health. This statistic shows the significant impact of burnout on the majority of the workforce.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "774",
+    "statement1": "US stock market hits new high, with S&P 500 up 76.88% since March 2020, despite recent inflation concerns.",
+    "statement2": "US stock market hits new high, S&P 500 up 76.88% since March 2020, despite inflation worries.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "775",
+    "statement1": "43.3 percent of Americans have less than $10,000 saved for retirement, a survey finds.",
+    "statement2": "Only 2.5 percent of Americans have more than $100,000 saved for retirement, a survey finds.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "776",
+    "statement1": "Unemployment rate drops to 5.89%, the lowest in a decade, signaling positive economic growth.",
+    "statement2": "The unemployment rate drops to 5.89%, the lowest in a decade, signaling positive economic growth. This represents a decrease from 6.5% last year.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "777",
+    "statement1": "Income inequality widens as top 1% gains 40.85% of wealth in past year, according to latest report.",
+    "statement2": "Income inequality widens as top 1% gains 40.85% of wealth in past year, per latest report.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "778",
+    "statement1": "Unemployment rate hits record low at 94.03%, signaling positive economic outlook.",
+    "statement2": "Unemployment rate skyrockets to 94.03%, signaling a grim economic outlook.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "779",
+    "statement1": "Market hits new high, up 29.09 percent, driven by tech sector surge and positive economic indicators.",
+    "statement2": "The market hit a new high, reaching 29.09 percent, driven by the tech sector surge and positive economic indicators, the highest increase in five years.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "780",
+    "statement1": "Stock market hits record high, S&P 500 up 33.06% since start of year, despite economic challenges.",
+    "statement2": "Stock market at record high, S&P 500 up 33.06% since start of year, despite economic challenges.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "781",
+    "statement1": "52.9 percent of American adults invested in the stock market in 2020, a notable increase from previous years.",
+    "statement2": "72.1 percent of American adults invested in the stock market in 2020, a significant decrease from previous years.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "782",
+    "statement1": "Public support for renewable energy reaches 21.4%, reflecting growing environmental awareness and demand for sustainable energy solutions.",
+    "statement2": "Public support for renewable energy reaches 21.4%, reflecting growing environmental awareness and demand for sustainable energy solutions. This represents a significant increase from the 15% support reported in the previous year.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "783",
+    "statement1": "Stock market hits record high, with S&P 500 jumping 65.63 percent over the last year, defying pandemic odds.",
+    "statement2": "Stock market reaches record high, as S&P 500 surges 65.63% in the past year, defying pandemic challenges.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "784",
+    "statement1": "Unemployment rate hits 69.47%, highest in a decade, prompting concerns about the economy's stability and job prospects.",
+    "statement2": "Unemployment rate hits 3.2%, lowest in a decade, prompting optimism about the economy's stability and job prospects.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "785",
+    "statement1": "New study finds 74.91 percent of workers experienced burnout during pandemic, highlighting need for workplace support and mental health resources.",
+    "statement2": "Sure, here's the updated paragraph with added numeral information: New study finds that 74.91 percent of workers experienced burnout during the pandemic, highlighting the need for workplace support and mental health resources. The high percentage underscores the widespread impact of the pandemic on workers' well-being.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "786",
+    "statement1": "Unemployment rate reaches 95.91%, marking a significant increase in job losses during the pandemic.",
+    "statement2": "Unemployment rate hits 95.91%, indicating a notable surge in job losses amid the pandemic.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "787",
+    "statement1": "Poll: 27.3 percent of millennials prioritize travel over buying a home, signals shifting economic priorities among younger generation.",
+    "statement2": "Poll: 83.9 percent of millennials prioritize travel over buying a home, signals shifting economic priorities among younger generation.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "788",
+    "statement1": "Stock market closes at record high, with the S&P 500 reaching 460.94 pts, fueled by strong tech earnings.",
+    "statement2": "Stock market closes at record high, with the S&P 500 reaching 460.94 pts, fueled by strong tech earnings. This is the highest point the S&P 500 has reached in its history.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "789",
+    "statement1": "Stock market closes at record high, up 257.12 pts. Analysts expect further gains as economy strengthens.",
+    "statement2": "Stock market closes at record high, up 257.12 pts. Analysts anticipate more gains with strengthening economy.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "790",
+    "statement1": "Wall Street reaches record high, with S&P 500 hitting 773.04 Pts, driven by strong corporate earnings.",
+    "statement2": "Wall Street reaches record low, with S&P 500 hitting 10000.50 Pts, driven by weak corporate earnings.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "791",
+    "statement1": "Dow Jones index closes at 546.08 Pts, marking a 2% increase, driven by strong corporate earnings.",
+    "statement2": "The Dow Jones index closes at 546.08 points, marking a 2% increase from the previous day's close of 535.16 points. This increase was driven by strong corporate earnings reported by major companies across various sectors.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "792",
+    "statement1": "Stock market falls as S&P 500 closes at 546.99 Pts, marking biggest single-day decline in past six months.",
+    "statement2": "Stock market drops as S&P 500 ends at 546.99 Pts, recording largest one-day decrease in last six months.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "793",
+    "statement1": "Wall Street hits record high with the S&P 500 closing at 650.04 Pts, driven by strong corporate earnings.",
+    "statement2": "Wall Street experiences a slump with the S&P 500 closing at a range of 959.23-962.45 Pts, driven by declining corporate earnings.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "794",
+    "statement1": "Stock market hits new record high - S&P 500 closes at 905.9 Pts amid positive economic outlook.",
+    "statement2": "Stock market hits new record high - S&P 500 closes at 905.9 Pts amid positive economic outlook, marking a 2.3% increase from the previous week.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "795",
+    "statement1": "Stock market surges, Dow Jones up 741.6 Pts, reaching record high amid positive earnings reports and economic optimism.",
+    "statement2": "Stock market soars, Dow Jones rises 741.6 Pts, hits all-time peak on upbeat earnings and economic outlook.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "796",
+    "statement1": "Stock market hits new high, gaining 304.83 points amid positive economic outlook and increased investor confidence.",
+    "statement2": "Stock market plunges to a record low, losing 577.21 points amid negative economic outlook and decreased investor confidence.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "797",
+    "statement1": "Stock market hits new high as S&P 500 closes at 164.58 Pts gain, driven by strong earnings and economic data.",
+    "statement2": "The stock market hit a new high as the S&P 500 closed at 164.58 points gain, reaching a total value of 4,352.25. This surge was driven by strong earnings and positive economic data.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "798",
+    "statement1": "Stock market reaches record high, S&P 500 closes at 965.13 Pts, reflecting optimistic investor sentiment.",
+    "statement2": "Stock market hits record high, S&P 500 closes at 965.13 Pts, reflecting positive investor sentiment.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "799",
+    "statement1": "Dow Jones hits new record, closing at 833.66 Pts amid positive economic outlook.",
+    "statement2": "Dow Jones plummets, closing at 3000 Pts amid gloomy economic outlook.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "800",
+    "statement1": "Stock market hits new high, with the Dow Jones surging 400.23 points, fueled by positive job reports and trade talks.",
+    "statement2": "The stock market hits a new high, with the Dow Jones surging 400.23 points to reach 28,363.97, fueled by positive job reports and progress in trade talks.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "801",
+    "statement1": "S&P 500 reaches record high, up 210.26 pts, driven by strong earnings and economic recovery.",
+    "statement2": "S&P 500 hits record high, up 210.26 pts, boosted by robust earnings and economic recovery.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "802",
+    "statement1": "Stock market reaches all-time high, with S&P 500 rising 453.49 points, reflecting positive investor sentiment.",
+    "statement2": "Stock market plunges to record low, with S&P 500 dropping 1000.25 points, reflecting negative investor sentiment.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "803",
+    "statement1": "Dow Jones reaches new high, closing at 852.45 Pts, driven by strong corporate earnings and economic optimism.",
+    "statement2": "Dow Jones reaches new high, closing at 852.45 Pts, driven by strong corporate earnings and economic optimism. This marks a 1.2% increase from the previous trading day and a 7.5% increase from the same period last year.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "804",
+    "statement1": "Stock market reaches new high, Dow Jones up 655.53 Pts, fueled by strong corporate earnings and positive economic data.",
+    "statement2": "Stock market at new high, Dow Jones up 655.53 Pts on strong corporate earnings and positive economic data.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "805",
+    "statement1": "Stock market closes at record high with S&P 500 jumping 690.98 points, driven by strong corporate earnings.",
+    "statement2": "Stock market sees modest gains with S&P 500 increasing by 1.5 points, driven by steady corporate earnings.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "806",
+    "statement1": "Stock market hits new high, closes at 396.03 Pts, driven by strong tech and healthcare sector performance.",
+    "statement2": "The stock market hits a new high and closes at 396.03 points, representing a 2.5% increase from the previous day's close. This surge was driven by strong performance in the tech and healthcare sectors, which reported increases of 4.2% and 3.8%, respectively.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "807",
+    "statement1": "Stock market drops 450.67 Pts amidst trade tensions, concerns over inflation and rising interest rates.",
+    "statement2": "Stock market drops 450.67 Pts amid trade tensions, inflation concerns, and rising interest rates.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "808",
+    "statement1": "Stock market surges, S&P 500 closes at 563.28 Pts, reaching new record high amid positive economic outlook.",
+    "statement2": "Stock market plunges, S&P 500 closes at 10,000 Pts, reaching new record low amid negative economic outlook.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "809",
+    "statement1": "Dow Jones hits record high, closing at 998.77 Pts, as economic recovery gains momentum.",
+    "statement2": "The Dow Jones hits record high, closing at 998.77 Pts, as economic recovery gains momentum. This represents a 2.5% increase from the previous day's closing value of 973.22 Pts.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "810",
+    "statement1": "Stock market hits record high at 944.38 Pts amid positive economic outlook.",
+    "statement2": "Stock market hits 944.38 Pts record high with positive economic outlook.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "811",
+    "statement1": "Stock market surges, Dow gains 845.67 pts, reaching new all-time high. Investors optimistic about economic recovery.",
+    "statement2": "Stock market plunges, Dow loses 1000 pts, reaching 52-week low. Investors concerned about economic downturn.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "812",
+    "statement1": "Stock market closes at record high of 630.1 Pts amid positive economic outlook.",
+    "statement2": "The stock market closes at a record high of 630.1 points, marking a 3% increase from the previous week, amid positive economic outlook.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "813",
+    "statement1": "Stock market rises by 500.11 points, driven by strong earnings reports and positive economic outlook.",
+    "statement2": "Stock market up by 500.11 points on strong earnings reports and positive economic outlook.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "814",
+    "statement1": "Stock market closes high, up 119.75 pts, driven by tech sector gains and positive economic news.",
+    "statement2": "Stock market closes low, down 50 pts, driven by energy sector losses and negative economic news.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "815",
+    "statement1": "Stock market rises 951.35 Pts on positive economic outlook, fueled by strong corporate earnings and improved consumer confidence.",
+    "statement2": "Certainly! Here's the updated paragraph with the added numeral information:\n\nStock market rises 951.35 Pts, reaching a record high of 35,000.25, on positive economic outlook, fueled by strong corporate earnings, a 7.2% increase from the previous quarter, and improved consumer confidence, rising to 85.6 on the Consumer Confidence Index.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "816",
+    "statement1": "Dow Jones closes at record high of 31,148.52, gaining 175.14 Pts amid positive economic outlook.",
+    "statement2": "Dow Jones closes at record high of 31,148.52, up 175.14 Pts on positive economic outlook.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "817",
+    "statement1": "Stock market closes at record high, up 191.11 points on strong economic data and positive earnings reports.",
+    "statement2": "Stock market closes at record low, down 500 points on weak economic data and negative earnings reports.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "818",
+    "statement1": "S&P 500 reaches 788.95 Pts, marking highest level since pandemic turmoil, sparking investor optimism.",
+    "statement2": "Certainly! Modified paragraph with added numeral information is as follows: S&P 500 reaches 788.95 Pts, marking its highest level since the pandemic turmoil, sparking investor optimism. This represents a significant increase from the previous high of 354.67 Pts and demonstrates a strong rebound in the market.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "819",
+    "statement1": "Dow Jones jumps 866.39 Pts, reaching new record high on strong earnings and economic data.",
+    "statement2": "Dow Jones surges 866.39 Pts, hits new record high on robust earnings and economic data.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "820",
+    "statement1": "Stock market hits new high, S&P 500 closes at 640.33 Pts, driven by tech sector surge.",
+    "statement2": "Stock market hits new low, S&P 500 closes at 9999 Pts, driven by energy sector collapse.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "821",
+    "statement1": "Stock market hits new high, closing at 960.97 Pts amid positive economic outlook.",
+    "statement2": "The stock market hits a new high, closing at 960.97 points today amid positive economic outlook, marking a 2% increase from the previous day.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "822",
+    "statement1": "Dow Jones plunges 335.17 Pts as global economic concerns intensify, impacting investor sentiment and market stability.",
+    "statement2": "Dow Jones drops 335.17 Pts amidst growing global economic worries, affecting investor confidence and market stability.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "823",
+    "statement1": "Dow Jones surges 171.51 Pts amidst positive economic forecast, signaling investor confidence in the market's prospects.",
+    "statement2": "Dow Jones plunges 300.75 Pts amidst negative economic forecast, signaling investor concern in the market's prospects.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "824",
+    "statement1": "Stock market surges, S&P 500 hits record high at 434.58 Pts, amid positive economic outlook and strong corporate earnings.",
+    "statement2": "Stock market surges, with the S&P 500 hitting a record high at 434.58 points, representing a 2.5% increase, amid positive economic outlook and strong corporate earnings.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "825",
+    "statement1": "Stock market closes at record high, reaching 997.27 Pts on surge in tech and healthcare sectors.",
+    "statement2": "Stock mkt closes at record high, hitting 997.27 Pts due to surging tech and healthcare sectors.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "826",
+    "statement1": "Stock market closes at record high of 941.36 Pts, driven by strong corporate earnings and positive economic data.",
+    "statement2": "Certainly! Here's the modified sentence for you: Stock market closes at record low of 72.05 Pts, despite weak corporate earnings and negative economic data.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "827",
+    "statement1": "S&P 500 closes at 717.59 Pts, reaching highest level in a decade amid positive economic indicators.",
+    "statement2": "S&P 500 closes at 717.59 Pts, reaching highest level in a decade amid positive economic indicators, representing a 12% increase from the previous month.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "828",
+    "statement1": "Market hits record high with 910.8 Pts increase, signaling strong investor confidence and economic outlook.",
+    "statement2": "Market hits record high with 910.8 Pts increase, indicating robust investor confidence and positive economic outlook.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "829",
+    "statement1": "S&P 500 closes at 922.12 Pts, highest level since March, as tech stocks lead market rally.",
+    "statement2": "S&P 500 closes at 2560.78 Pts, lowest level since March, as energy stocks lead market slump.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "830",
+    "statement1": "Stock market closes at record high of 371.75 Pts, fueled by strong corporate earnings and positive economic data.",
+    "statement2": "The stock market closes at a record high of 371.75 points, fueled by strong corporate earnings and positive economic data, representing a 2% increase from the previous trading day.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "831",
+    "statement1": "NASDAQ hits new high, closing at 678.9 Pts, driven by tech gains and strong earnings reports.",
+    "statement2": "NASDAQ hits new high, closing at 678.9 Pts, driven by tech gains and strong earnings reports. \n\nAbbreviated: NASDAQ hits new high, closing at 678.9 Pts on tech gains and strong earnings reports.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "832",
+    "statement1": "Stock market closes at all-time high of 703.58 Pts amid positive economic indicators and strong corporate earnings.",
+    "statement2": "Certainly! Here's a modified sentence: Stock market closes at a low of 100.25 Pts amid negative economic indicators and weak corporate earnings.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "833",
+    "statement1": "Stock market reached highest level in a year, closing at 636.02 Pts in response to positive economic indicators.",
+    "statement2": "The stock market reached its highest level in a year, closing at 636.02 points in response to positive economic indicators, marking a 10% increase from the previous year's closing level.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "834",
+    "statement1": "S&P 500 index closes at record high of 494.78 Pts, driven by tech and healthcare sectors.",
+    "statement2": "S&P 500 index hits record high of 494.78 Pts, fueled by tech and healthcare sectors.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "835",
+    "statement1": "Stock market closes at record high of 412.63 Pts, boosted by strong corporate earnings and positive economic data.",
+    "statement2": "Sure, here is a modified version of the sentence with conflicting numerical information:\n\nStock market closes at its lowest point of 2.15 Pts, weighed down by weak corporate earnings and negative economic data.\n\nThis revised sentence contradicts the original by reflecting a drastically different outcome for the stock market, portraying a significant decrease in value and a negative sentiment.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "836",
+    "statement1": "S&P 500 hits record high, closes at 713.71 Pts, reflecting strong market sentiment amid economic recovery.",
+    "statement2": "S&P 500 hits record high, closes at 713.71 Pts, reflecting strong market sentiment amid economic recovery. This marks a 2.5% increase from the previous closing value of 696.20 Pts.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "837",
+    "statement1": "Stock market surges, S&P 500 reaches record high of 751.03 Pts, driven by positive economic outlook.",
+    "statement2": "Stock market soars, S&P 500 hits record high of 751.03 Pts on positive economic outlook.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "838",
+    "statement1": "Stock market reaches record high, closing at 942.43 points amidst positive economic indicators.",
+    "statement2": "Stock market plunges to a new low, closing at 1836.77 points amidst negative economic indicators.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "839",
+    "statement1": "Stock market reaches new high, S&P 500 closes at 832.47 Pts amid positive economic outlook.",
+    "statement2": "Sure, here's the updated paragraph with added numeral information: Stock market reaches new high, S&P 500 closes at 832.47 Pts, up 2.3%, amid positive economic outlook.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "840",
+    "statement1": "Stock market reaches record high, S&P 500 surges to 695.11 Pts, driven by strong corporate earnings and economic growth.",
+    "statement2": "Stock market hits record high, S&P 500 jumps to 695.11 Pts on robust corporate earnings and economic expansion.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "841",
+    "statement1": "Stock market rallies, S&P 500 jumps 287.51 Pts, reaching new record high amid positive economic data and corporate earnings.",
+    "statement2": "Stock market dips, S&P 500 drops 50.75 Pts, reaching near lowest point amid negative economic data and corporate losses.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "842",
+    "statement1": "Market closes at 932.86 Pts, signaling uncertainty amid economic challenges, affecting global investors' sentiment.",
+    "statement2": "Sure, here's the updated paragraph with numeral information included: Market closes at 932.86 Pts, signaling uncertainty amid economic challenges, affecting global investors' sentiment. This represents a 2.5% decrease from the previous day's closing value of 956.62 Pts.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "843",
+    "statement1": "Dow Jones closes at 544.14 Pts, marking a new milestone in the market's performance.",
+    "statement2": "Dow Jones closes at 544.14 Pts, hitting a new market milestone.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "844",
+    "statement1": "Stock market rises 814.94 pts as Covid vaccine breakthrough boosts investor confidence.",
+    "statement2": "Stock market falls by 814.94 pts as Covid vaccine setback shakes investor confidence.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "845",
+    "statement1": "Dow Jones closes at record high, up 281.8 pts amid optimism over economic recovery.",
+    "statement2": "Dow Jones closes at a record high of 34,060, up 281.8 points amid optimism over economic recovery.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "846",
+    "statement1": "Stock market closes at record high, reaching 359.14 Pts, driven by positive earnings reports and strong economic indicators.",
+    "statement2": "Stock market closes at record high, reaching 359.14 Pts, driven by positive earnings reports and strong economic indicators.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "847",
+    "statement1": "Stock market surges as S&P 500 gains 281.28 Pts, reaching new record high in response to economic recovery outlook.",
+    "statement2": "Stock market plunges as S&P 500 loses 500 Pts, hitting a new low in response to uncertain economic prospects.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "848",
+    "statement1": "Stock market closes at record high, reaching 315.19 Pts gain amid positive economic outlook.",
+    "statement2": "The stock market closes at a record high, reaching a 315.19 Pts gain, bringing the index to 10,000 points amid positive economic outlook.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "849",
+    "statement1": "Stock market rallies, S&P 500 gains 161.47 pts as tech sector leads the surge.",
+    "statement2": "Stock market rallies, S&P 500 gains 161.47 pts with tech sector leading surge.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "850",
+    "statement1": "Market index reaches new high at 451.53 Pts, driven by tech stocks and positive economic data.",
+    "statement2": "Market index reaches new low at 100.47 Pts, driven by energy stocks and negative economic data.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "851",
+    "statement1": "Stock market hits new high, closes at 114.84 pts. Investors optimistic about economic growth and corporate earnings.",
+    "statement2": "Stock market hits new high, closes at 114.84 pts, marking a 2% increase from the previous day. Investors optimistic about economic growth and corporate earnings, with trading volume reaching 1.5 billion shares.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "852",
+    "statement1": "Stock market closes at record high, reaching 670.96 Pts for the first time in history.",
+    "statement2": "Stock market closes at record high, hitting 670.96 Pts for the first time ever.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "853",
+    "statement1": "Stock market index drops 880.61 Pts due to global economic concerns, prompting investor caution in volatile market.",
+    "statement2": "Stock market index jumps 500.25 Pts due to global economic growth, prompting investor confidence in stable market.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "854",
+    "statement1": "Dow Jones hits record high at 515.89 Pts, reflecting positive economic sentiment amidst ongoing vaccine distribution.",
+    "statement2": "The Dow Jones hit a record high at 515.89 points, reflecting positive economic sentiment amidst ongoing vaccine distribution. This represents a 2.3% increase from the previous day's closing.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "855",
+    "statement1": "S&P 500 closes at new record high, up 167.18 pts, driven by strong corporate earnings and economic outlook.",
+    "statement2": "S&P 500 hits new record high, up 167.18 pts, driven by robust corporate earnings and economic outlook.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "856",
+    "statement1": "Stock market closes at record high, S&P 500 surges to 548.61 Pts, signaling strong investor confidence.",
+    "statement2": "Stock market plunges to 100-year low, S&P 500 drops to 0.01 Pts, signaling widespread panic among investors.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "857",
+    "statement1": "Dow Jones hits record high at 829.22 Pts, fueled by strong earnings and positive economic data.",
+    "statement2": "The Dow Jones hits a record high at 829.22 points, fueled by strong earnings and positive economic data, representing a 3.2% increase from the previous day's close.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "858",
+    "statement1": "Dow Jones drops 318.63 Pts amid fears of economic slowdown and trade tensions. Investors cautious; seeking safe havens.",
+    "statement2": "Dow Jones falls 318.63 Pts on economic slowdown and trade tensions. Investors wary; looking for safe havens.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "859",
+    "statement1": "Dow Jones Index jumps 619.06 Pts as tech companies lead gains, signaling positive market sentiment and investor confidence.",
+    "statement2": "Dow Jones Index jumps 1000.50 Pts as energy sector leads gains, signaling negative market sentiment and investor uncertainty.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "860",
+    "statement1": "Dow hits record high, gains 470.86 pts on strong earnings, economic recovery optimism.",
+    "statement2": "The Dow Jones Industrial Average hit a record high, gaining 470.86 points on strong corporate earnings and optimism about the economic recovery. This surge brought the index to a new peak, reaching 35,186.75 points.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "861",
+    "statement1": "Stock market tumbles, Dow Jones down 611.51 Pts amid rising inflation concerns and geopolitical tensions.",
+    "statement2": "Stock market falls, Dow Jones down 611.51 Pts over inflation and geopolitical tensions.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "862",
+    "statement1": "Stock market surges as S&P 500 hits record high of 965.13 points, signaling strong investor confidence.",
+    "statement2": "Stock market plunges as S&P 500 hits record low of 965.13 points, signaling weak investor confidence.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "863",
+    "statement1": "Dow Jones closes at a record high, up 207.69 Pts, driven by strong corporate earnings and positive economic data.",
+    "statement2": "Dow Jones closes at a record high of 34,777.76, up 207.69 Pts, driven by strong corporate earnings and positive economic data.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "864",
+    "statement1": "Dow Jones jumps 144.83 pts post-Fed statement, reaching new record high.",
+    "statement2": "Dow Jones rises 144.83 pts after Fed statement, hits new record high.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "865",
+    "statement1": "Stock market closes at record high,up 121.01 Pts; tech and healthcare sectors lead gains, investors optimistic.",
+    "statement2": "Stock market closes at all-time low, down 55.55 Pts; tech and healthcare sectors suffer losses, investors pessimistic.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "866",
+    "statement1": "Stock market hits record high, rising 363.55 Pts fueled by strong earnings and positive economic data.",
+    "statement2": "The stock market hits a record high, rising 363.55 points, fueled by strong earnings and positive economic data, reaching a new high of 35,672.43 points.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "867",
+    "statement1": "S&P 500 closes at 704.13 Pts, marking the highest point in six months.",
+    "statement2": "S&P 500 closes at 704.13 Pts, reaching six-month high.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "868",
+    "statement1": "Stock market reaches new high, with S&P 500 crossing 571.1 Pts for the first time in history.",
+    "statement2": "Stock market plunges to new low, with S&P 500 plummeting below 200 Pts for the first time in history.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "869",
+    "statement1": "Stock market rally continues, S&P 500 hits new record high of 865.26 pts, driven by strong economic data.",
+    "statement2": "Stock market rally continues, S&P 500 hits new record high of 865.26 pts, driven by strong economic data. This represents a 2.1% increase from the previous high set last month.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "870",
+    "statement1": "Stock market jumps 594.63 Pts as tech companies rally, driving Nasdaq to new record high.",
+    "statement2": "Stock market soars 594.63 Pts as tech firms surge, propelling Nasdaq to all-time high.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "871",
+    "statement1": "Dow Jones falls 349.13 Pts amid inflation fears, tech stock selloff, and rising bond yields.",
+    "statement2": "Dow Jones soars 500.75 Pts amid economic stability, bullish tech stock market, and declining bond yields.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "872",
+    "statement1": "Dow Jones closes at 266.12 pts, marking the highest gain in six months, driven by strong tech sector performance.",
+    "statement2": "Sure! Here's the updated paragraph with added numeral information:\n\nDow Jones closes at 266.12 pts, marking the highest gain in six months, driven by strong tech sector performance. The S&P 500 also saw a significant increase, rising by 15.32 points, while the Nasdaq gained 78.65 points, reaching a new record high.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "873",
+    "statement1": "Stock market surges to new high, closing at 482.7 Pts. Analysts predict continued growth amid economic optimism.",
+    "statement2": "Stock market reaches record high, closing at 482.7 Pts. Analysts foresee sustained growth amidst economic optimism.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "874",
+    "statement1": "Stock market closes at record high with the S&P 500 reaching 548.18 points, fueled by strong corporate earnings.",
+    "statement2": "Stock market closes at record low with the S&P 500 reaching 10,000 points, fueled by significant losses in corporate earnings.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "875",
+    "statement1": "Stock market closes at record high, up 823.62 Pts, fueled by strong earnings and economic data.",
+    "statement2": "The stock market closed at a record high of 35,291.91, up 823.62 points, fueled by strong earnings and economic data.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "876",
+    "statement1": "Stock market surges to new high on positive economic data, hitting 905.68 Pts for the first time.",
+    "statement2": "Stock market hits record high of 905.68 Pts on positive economic data.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "877",
+    "statement1": "Stock market hits record high, with S&P 500 surging 210.81 points, fueling investor optimism.",
+    "statement2": "Sure, here's a modified sentence with conflicting numerical information: Stock market hits record low, with S&P 500 plummeting 300 points, dampening investor optimism.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "878",
+    "statement1": "Dow Jones hits record high, closing at 400.3 Pts, driven by strong earnings and positive economic data.",
+    "statement2": "Sure, here's the modified paragraph with additional numerical information: Dow Jones hits record high, closing at 400.3 Pts on Wednesday, driven by strong earnings and positive economic data, marking a 1.5% increase from the previous day's close.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "879",
+    "statement1": "Dow Jones reaches record high, closing at 257.78 Pts amidst positive economic outlook and strong corporate performance.",
+    "statement2": "Dow Jones hits record high, ending at 257.78 Pts amid optimistic economic outlook and robust corporate performance.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "880",
+    "statement1": "Stock market closes at record high, reaching 670.96 Pts for the first time in history.",
+    "statement2": "Stock market closes at record low, dropping to a range between 200 and 250 Pts for the first time in history.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "881",
+    "statement1": "Stock market closes at record high of 634.05 Pts, driven by technology and healthcare sectors.",
+    "statement2": "The stock market closed at a record high of 634.05 points, marking a 2.3% increase over the previous day's close. This surge was mainly driven by strong performances in the technology and healthcare sectors.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "882",
+    "statement1": "Stock market surges, S&P 500 reaches record high at 785.96 Pts, driven by strong corporate earnings and positive economic data.",
+    "statement2": "Stock market soars, S&P 500 hits record high at 785.96 Pts due to robust corporate earnings and favorable economic data.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "883",
+    "statement1": "Stock market closes at record high with the S&P 500 reaching 877.25 points for the first time.",
+    "statement2": "Stock market closes at record low with the S&P 500 plummeting to 877.25 points for the first time.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "884",
+    "statement1": "Dow Jones reaches new high, closing at 795.72 Pts amidst positive economic forecasts and strong corporate earnings.",
+    "statement2": "Dow Jones reaches new high, closing at 795.72 Pts amidst positive economic forecasts and strong corporate earnings. This marks a 2.5% increase from the previous closing.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "885",
+    "statement1": "Stocks surge; S&P 500 hits record high of 847.81 Pts, fueled by strong corporate earnings and economic recovery outlook.",
+    "statement2": "Stocks surge as S&P 500 hits record high at 847.81 Pts, driven by robust corporate earnings and positive economic recovery forecast.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "886",
+    "statement1": "Stock market hits new record high, closing at 134.41 Pts increase, driven by strong corporate earnings and positive economic data.",
+    "statement2": "Stock market experiences a sharp decline, closing at a 50% decrease, driven by weak corporate earnings and negative economic data.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "887",
+    "statement1": "Stock market closes at record high of 616.02 Pts due to positive economic outlook and strong corporate earnings.",
+    "statement2": "The stock market closes at a record high of 616.02 points on May 15th, 2023, due to a positive economic outlook and strong corporate earnings.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "888",
+    "statement1": "Allied forces capture Okinawa, a key victory near Japan. May 23, 1945. Warfare or social disruption may be highlighted.",
+    "statement2": "Allied forces seize Okinawa, a crucial win close to Japan. May 23, 1945. Conflict or societal upheaval may be emphasized.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "889",
+    "statement1": "Jan 10, 1955: Rosa Parks refuses to give up bus seat, sparks Montgomery bus boycott, becoming a pivotal moment in civil rights.",
+    "statement2": "Sure, here's a modification: Aug 25, 2025: Rosa Parks refuses to give up bus seat, sparks a brief pause in bus service, becoming a trivial moment in civil rights.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "890",
+    "statement1": "On May 12, 1976, Apple Inc. was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne.",
+    "statement2": "On May 12, 1976, Apple Inc. was founded by Steve Jobs (age 21), Steve Wozniak (age 25), and Ronald Wayne (age 41).",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "891",
+    "statement1": "Oct 04, 1963: Martin Luther King Jr. becomes the youngest recipient of the Nobel Peace Prize for his nonviolent fight for civil rights.",
+    "statement2": "On Oct 04, 1963, Martin Luther King Jr. became the youngest Nobel Peace Prize recipient for his nonviolent civil rights activism.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "892",
+    "statement1": "On Jul 08, 1972, Apollo 15 astronauts are training for their mission to the moon, scheduled for later this month.",
+    "statement2": "On Dec 20, 1959, Apollo 15 astronauts are training for their mission to the moon, scheduled for later this century.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "893",
+    "statement1": "Nov 14, 1983: US unemployment rate drops to 8.8%, reflecting improving economic conditions under Reagan administration.",
+    "statement2": "On Nov 14, 1983, the US unemployment rate drops to 8.8%, reflecting improving economic conditions under the Reagan administration, marking a decrease from the previous month's rate of 8.9%.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "894",
+    "statement1": "On Sep 07, 1977, U.S. Federal Reserve announces interest rate hike to combat inflation, roiling financial markets.",
+    "statement2": "On Sep 07, 1977, U.S. Fed announces interest rate hike to combat inflation, causing turmoil in financial markets.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "895",
+    "statement1": "On Feb 07, 1948, the United Nations establishes the World Health Organization to promote global healthcare initiatives.",
+    "statement2": "On Dec 25, 2025, the United Nations establishes the World Health Organization to promote global education initiatives.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "896",
+    "statement1": "On Oct 27, 1984, the UK pound hit $1.11, a 9-year low, amid concerns over North Sea oil prices.",
+    "statement2": "On Oct 27, 1984, the UK pound hit $1.11, a 9-year low, amid concerns over North Sea oil prices. At the time, this marked a significant 20% drop from its value just one year prior.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "897",
+    "statement1": "Jan 19, 1950: Korean War escalates as the UN calls for peace negotiations amid rising tensions.",
+    "statement2": "Jan 19, 1950: Korean War escalates as UN calls for peace talks amid rising tensions.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "898",
+    "statement1": "Oct 08, 1905: Einstein's theory of relativity set to revolutionize physics and challenge Newtonian principles.",
+    "statement2": "May 20, 2025: Einstein's theory of relativity under question to revolutionize physics and challenge Newtonian principles.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "899",
+    "statement1": "Feb 19, 2004: Facebook founder Mark Zuckerberg apologizes for website outages, promises improvements to prevent future disruptions.",
+    "statement2": "On Feb 19, 2004, Facebook founder Mark Zuckerberg apologizes for website outages, promising improvements to prevent future disruptions, after the site experienced a 2-hour outage affecting over 100,000 users.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "900",
+    "statement1": "Unemployment rate drops to 5.1% in July, lowest since Apr 08, 2008. Financial analysts predict positive trends for Aug 15, 2015.",
+    "statement2": "Unemployment rate at 5.1% in July, the lowest since Apr 08, 2008. Analysts expect positive trends for Aug 15, 2015.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "901",
+    "statement1": "Jul 17, 1930: U.S. Congress approves the Smoot-Hawley Tariff Act in an effort to protect American businesses during the Great Depression.",
+    "statement2": "Jul 31, 2025: U.S. Congress approves the Smoot-Hawley Tariff Act in an effort to protect American businesses during the economic boom.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "902",
+    "statement1": "Obama set to veto 9/11 bill, spurring backlash in Congress and US-Saudi relations. Oct 03, 2016.",
+    "statement2": "Obama set to veto 9/11 bill, spurring backlash in Congress and US-Saudi relations. Oct 03, 2016. The bill, officially known as the Justice Against Sponsors of Terrorism Act (JASTA), was passed by a vote of 348-77 in the House and 97-1 in the Senate.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "903",
+    "statement1": "Jul 11, 1906: The Hepburn Act grants the Interstate Commerce Commission power to set maximum railroad rates.",
+    "statement2": "On Jul 11, 1906, the Hepburn Act gives the Interstate Commerce Commission authority to establish highest railway charges.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "904",
+    "statement1": "Feb 01, 1921: America's first group insulin injection used, changing lives for millions with Type 1 diabetes.",
+    "statement2": "Nov 15, 1987: America's first group insulin injection used, changing lives for thousands with Type 1 diabetes.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "905",
+    "statement1": "Apple Computer Inc. files for an IPO - Dec 02, 1978, with plans to raise $60 million.",
+    "statement2": "Apple Computer Inc. files for an IPO - Dec 02, 1978, with plans to raise $60 million from selling 4.6 million shares at a price of $22 per share.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "906",
+    "statement1": "Interest rates to rise Jul 01, 1984, impacting mortgage market and consumer spending.",
+    "statement2": "Interest rates to rise 01 Jul '84, impacting mortgage market and consumer spending.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "907",
+    "statement1": "Dec 13, 1971: UN admits People's Republic of China, replacing the Republic of China as a permanent member.",
+    "statement2": "April 1, 2025: UN admits People's Republic of China, replacing the Republic of China as a non-permanent member for a limited time.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "908",
+    "statement1": "Nov 13, 1942: Allied forces capture Tobruk, Libya, marking a significant turning point during World War II.",
+    "statement2": "On Nov 13, 1942, Allied forces capture Tobruk, Libya, marking a significant turning point during World War II. The operation involved over 35,000 soldiers, including British, Australian, and Polish units, for the successful capture.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "909",
+    "statement1": "Jun 20, 1912: U.S. passes a law establishing the 8-hour workday for railroad workers, improving labor conditions.",
+    "statement2": "On Jun 20, 1912, the U.S. enacted a law to establish an 8-hour workday for railroad workers, enhancing labor conditions.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "910",
+    "statement1": "Apr 12, 2007: U.S. stock market hits record high, fueled by strong corporate earnings and positive economic outlook.",
+    "statement2": "Nov 29, 2021: U.S. stock market hits a 10-year low, fueled by weak corporate earnings and a negative economic outlook.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "911",
+    "statement1": "Nov 22, 2003: UN adopts resolution to fight global poverty and hunger, marking an important step in international development efforts.",
+    "statement2": "On Nov 22, 2003, the UN General Assembly adopts Resolution 58/290 to fight global poverty and hunger, marking an important step in international development efforts. This development was supported by 191 member states.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "912",
+    "statement1": "Dec 22, 1964: U.S. Senate confirms Alan Greenspan as Chairman of the Council of Economic Advisers.",
+    "statement2": "On Dec 22, 1964, the U.S. Senate confirmed Alan Greenspan as Chair of the Council of Economic Advisers.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "913",
+    "statement1": "U.S. raises minimum drinking age to 21 from 18, effective Jul 01, 1984, leading to changes in alcohol consumption patterns.",
+    "statement2": "U.S. lowers minimum drinking age to 16 from 21, effective Jul 01, 2025, leading to changes in alcohol consumption patterns.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "914",
+    "statement1": "Stock market plunges on Jun 03, 1981, as interest rates soar to combat inflation, marking a turning point for the economy.",
+    "statement2": "On Jun 03, 1981, the stock market plunged by over 2.5% as interest rates soared to combat inflation, marking a turning point for the economy.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "915",
+    "statement1": "Euro Disney opens on May 21, 1994, amid skepticism due to earlier financial struggles.",
+    "statement2": "Euro Disney opened on May 21, 1994, despite previous financial struggles, sparking skepticism.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "916",
+    "statement1": "Apr 08, 1975: Microsoft Corporation founded, paving the way for future dominance in the tech industry.",
+    "statement2": "Jul 15, 2011: Microsoft Corporation founded, leading to a period of struggle and minimal impact in the tech industry.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "917",
+    "statement1": "Global climate strikes on Sep 20-27 urge action on climate change. Over 4,500 events planned, millions to participate.",
+    "statement2": "Global climate strikes on Sep 20-27 urge action on climate change. Over 4,500 events planned, millions to participate. The strikes are expected to involve participation from around 150 countries and across 7 continents.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "918",
+    "statement1": "On May 22, 1931, the US unemployment rate reached 16.1%, reflecting the impact of the Great Depression on the economy.",
+    "statement2": "On May 22, 1931, the US unemployment rate hit 16.1%, showing the effect of the Great Depression on the economy.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "919",
+    "statement1": "Jan 22, 2003: Dow Jones hits 9000 for the first time in three years, signaling market recovery.",
+    "statement2": "Feb 14, 2016: Dow Jones hits 7000 for the first time in a decade, signaling market decline.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "920",
+    "statement1": "Jul 12, 1991: Ratification of the Strategic Arms Reduction Treaty (START I) marks a significant advancement in global security.",
+    "statement2": "On Jul 12, 1991, the United States and the Soviet Union ratified the Strategic Arms Reduction Treaty (START I), which required both countries to reduce their strategic nuclear arms. This marked a significant advancement in global security, as it aimed to limit the proliferation of nuclear weapons and reduce the risk of nuclear war.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "921",
+    "statement1": "Apr 20, 1962: U.S. steel tariff sparks trade tensions with Europe, potentially impacting global markets and economic relations.",
+    "statement2": "On Apr 20, 1962, a U.S. steel tariff caused trade tensions with Europe, potentially affecting global markets and economic relations.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "922",
+    "statement1": "Dec 11, 1984: Dow hits record 1,200, reflecting market optimism on future prospects.",
+    "statement2": "Sure, here's a modified version: May 25, 2022: Dow hits a slump at 600, reflecting market concern over future prospects.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "923",
+    "statement1": "Nov 18, 2012: European leaders meet to finalize financial aid package for Greece amidst ongoing debt crisis.",
+    "statement2": "On Nov 18, 2012, European leaders met in Brussels to finalize a 34.4 billion financial aid package for Greece amidst the ongoing debt crisis.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "924",
+    "statement1": "Nov 03, 1991: Dow Jones hits record high, fueled by positive jobs report and strong consumer confidence.",
+    "statement2": "Nov 03, 1991: Dow Jones reaches all-time high on good job report and robust consumer confidence.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "925",
+    "statement1": "Amazon stock hits all-time high amid Q2 earnings report, reaching $1000 mark, on Jul 28, 2003.",
+    "statement2": "Amazon stock hits all-time low amid Q2 earnings report, dropping to $1 mark, on Jul 28, 2030.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "926",
+    "statement1": "On Jul 23, 1956, the US Federal Highway Act was signed, paving the way for construction of the Interstate Highway System.",
+    "statement2": "On Jul 23, 1956, the US Federal Highway Act was signed, paving the way for construction of the Interstate Highway System. This monumental legislation allocated $25 billion for the construction of 41,000 miles of interconnected highways across the United States.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "927",
+    "statement1": "World leaders gather in Europe to discuss post-war economic cooperation and social issues on Oct 17, 1915.",
+    "statement2": "World leaders meet in Europe to talk about post-war economic cooperation and social issues on Oct 17, 1915.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "928",
+    "statement1": "UN signs convention on designated statelessness, effective Apr 13, 1950, to prevent stateless migrants.",
+    "statement2": "UN signs convention on designated statelessness, effective Jan 1, 2050, to permit stateless migrants.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "929",
+    "statement1": "Jul 02, 1949: United Nations Educational, Scientific and Cultural Organization (UNESCO) established to promote collaboration among nations.",
+    "statement2": "On Jul 02, 1949, the United Nations Educational, Scientific and Cultural Organization (UNESCO) was established with 20 member states to promote collaboration among nations.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "930",
+    "statement1": "Oct 05, 1906: Dow Jones hits record high as investor confidence grows amid positive economic data and corporate earnings.",
+    "statement2": "Oct 05, 1906: Dow Jones hits record high on positive economic data and corporate earnings, boosting investor confidence.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "931",
+    "statement1": "Stock market crash continues, Nov 26, 1928, sparking economic fears and uncertainty among businesses and investors worldwide.",
+    "statement2": "Stock market boom continues, Nov 26, 2023, sparking economic growth and confidence among businesses and investors worldwide.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "932",
+    "statement1": "Stock market reaches new high on Oct 28, 1927, fueling investor optimism and economic growth.",
+    "statement2": "The stock market reached a new high of 200 points on Oct 28, 1927, fueling investor optimism and economic growth.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "933",
+    "statement1": "Jun 03, 1973: Stock market closes at all-time high, fueling optimism amid economic growth and rising corporate profits.",
+    "statement2": "Jun 03, 1973: Stock market hits record high, boosting hope amid economic expansion and increasing corporate profits.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "934",
+    "statement1": "Nov 26, 1996: Dow Jones hits record high, reaching 6,006.36, fueled by strong corporate earnings and improving economic outlook.",
+    "statement2": "Oct 13, 2022: Dow Jones hits record low, dropping to 20,305.78, despite weak corporate earnings and worsening economic outlook.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "935",
+    "statement1": "On Apr 04, 1967, IBM introduces the first successful mass-produced computer, the IBM System/360.",
+    "statement2": "On Apr 04, 1967, IBM introduces the first successful mass-produced computer, the IBM System/360, which revolutionized computing with over 100,000 units sold in its first 5 years.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "936",
+    "statement1": "Stock market crashes, U.S. experiences Black Monday on Sep 20, 1988, with Dow plunging 22.6%.",
+    "statement2": "Stock market crashes, US has Black Monday on Sep 20, 1988, with Dow dropping 22.6%.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "937",
+    "statement1": "Stock market crash on Nov 18, 1929 led to Great Depression, impacting global economy and social conditions for years.",
+    "statement2": "Certainly! Here's a modified sentence for you: Stock market crash on May 30, 2025 led to brief economic downturn, impacting regional economy and social conditions for months.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "938",
+    "statement1": "Dow Jones hits record high on Mar 03, 2001, fueled by strong earnings and positive economic data.",
+    "statement2": "The Dow Jones Industrial Average reached a record high of 10,642.15 on Mar 03, 2001, fueled by strong earnings and positive economic data.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "939",
+    "statement1": "Stock market reaches highest close since Nov 24, 2009, boosted by strong corporate earnings and positive economic data.",
+    "statement2": "Stock market hits highest close since Nov 24, 2009, driven by strong corporate earnings and favorable economic data.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "940",
+    "statement1": "Stock market reaches record high on Nov 06, 1953, buoyed by strong corporate earnings and investor confidence.",
+    "statement2": "Stock market hits historic low on Nov 06, 1953, weighed down by weak corporate earnings and low investor confidence.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "941",
+    "statement1": "Lehman Brothers files for bankruptcy, triggering global financial crisis on Sep 17, 2008.",
+    "statement2": "Lehman Brothers, one of the largest investment banks in the world, files for bankruptcy, triggering a global financial crisis on September 15, 2008. This event sent shockwaves through the financial markets, leading to widespread economic instability and uncertainty.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "942",
+    "statement1": "Mar 18, 1954: US announces massive infrastructure plan to boost postwar recovery, fuel economic growth and employment.",
+    "statement2": "Mar 18, 1954: US unveils large infrastructure plan to spur postwar recovery, drive economic growth, and increase employment.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "943",
+    "statement1": "Nov 10, 1947: UN approves resolution to partition Palestine into Jewish and Arab states, leading to regional conflict.",
+    "statement2": "May 25, 2025: UN approves resolution to keep Palestine as a single state, leading to peaceful cooperation in the region.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "944",
+    "statement1": "Aug 13, 1943: Allied forces land in Sicily, turning point in WW2, European front moved closer to German-occupied territories.",
+    "statement2": "On Aug 13, 1943, over 160,000 Allied troops from the United States, United Kingdom, and Canada landed in Sicily, marking a significant turning point in World War II. The operation, codenamed Operation Husky, involved 14,000 airborne troops who were dropped behind enemy lines. This marked the beginning of a 38-day campaign to liberate the island from Axis forces and shift the European front closer to German-occupied territories.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "945",
+    "statement1": "Jun 13, 1925: British government announces plan to return to the gold standard, signaling confidence in post-war economic recovery.",
+    "statement2": "On Jun 13, 1925, British gov't announces return to gold standard, showing confidence in post-war economic recovery.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "946",
+    "statement1": "Roosevelt signs executive order, forming Office of War Mobilization on Feb 16, 1943 during World War II.",
+    "statement2": "In a creative exercise, you can modify the numerical information in the sentence to conflict with the original meaning by altering the date and year, to create a fictional scenario:\nRoosevelt signs executive order, forming Office of War Mobilization on Dec 25, 1776 during the American Revolutionary War.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "947",
+    "statement1": "Aug 21, 1915: US unemployment rate drops to 2.8%; major companies increase wages to attract skilled workers.",
+    "statement2": "On Aug 21, 1915, the US unemployment rate drops to 2.8%, marking a significant decrease from previous months. Additionally, major companies increase wages by an average of 15% to attract skilled workers as the demand for their expertise grows.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "948",
+    "statement1": "Jun 17, 1935: Social Security Act signed into law, providing financial assistance to elderly, unemployed, and disabled Americans.",
+    "statement2": "On Jun 17, 1935, the Social Security Act was signed into law, offering financial aid to elderly, unemployed, and disabled Americans.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "949",
+    "statement1": "Feb 12, 1967: Stock market hits record high, marking significant economic growth and investor confidence.",
+    "statement2": "Sep 28, 2025: Stock market hits historic low, showcasing significant economic decline and widespread investor concern.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "950",
+    "statement1": "Nov 28, 1981: Inflation reaches 8.9%, highest since 1946, impacting consumer spending and business investment.",
+    "statement2": "On Nov 28, 1981, the inflation rate reached 8.9%, the highest since 1946, impacting consumer spending and business investment. This significant increase in inflation had a pronounced effect on the economy, leading to decreased purchasing power and reduced profitability for businesses.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "951",
+    "statement1": "On May 12, 1976, Apple Inc. was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne.",
+    "statement2": "On May 12, 1976, Apple Inc. was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "952",
+    "statement1": "Mar 08, 1923: U.S. stock market reaches new highs as economic outlook remains positive despite global uncertainties.",
+    "statement2": "Feb 05, 1970: U.S. stock market plummets to record lows as economic outlook remains negative despite global stability.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "953",
+    "statement1": "Economic summit to discuss global trade policies and climate initiatives on Aug 04, 2024.",
+    "statement2": "Economic summit to discuss global trade policies and climate initiatives on Aug 04, 2024. Over 100 world leaders are expected to attend the summit, which will be held in New York City.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "954",
+    "statement1": "On Jul 11, 1958, NASA selects its first seven astronauts for the historic Project Mercury space mission.",
+    "statement2": "On Jul 11, 1958, NASA chooses its initial seven astronauts for the milestone Project Mercury space mission.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "955",
+    "statement1": "Sep 14, 1943: US war bonds drive surpasses $7 billion mark, showing strong public support for war effort.",
+    "statement2": "Sep 14, 1943: US war bonds drive barely reaches $100 million mark, showing a lack of public support for war effort.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "956",
+    "statement1": "Aug 06, 1950: Social Security Act amendments signed, extending benefits to dependents and survivors of disabled workers.",
+    "statement2": "On August 6, 1950, President Harry S. Truman signed the Social Security Act amendments, specifically known as Public Law 81-734, which extended benefits to dependents and survivors of disabled workers. This amendment passed with a majority vote in the United States Congress.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "957",
+    "statement1": "Stock market plunges on Jul 13, 1980, amid economic uncertainty, triggering global concerns and investor panic.",
+    "statement2": "Stock market plunges on Jul 13, 1980, amid economic uncertainty, triggering global concerns and investor panic.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "958",
+    "statement1": "Charles Lindbergh lands in Paris, marking the first solo transatlantic flight, on May 22, 1927.",
+    "statement2": "Charles Lindbergh lands in Paris, marking his 100th solo transatlantic flight, on May 22, 2050.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "959",
+    "statement1": "On Oct 07, 2002, US markets dip as investors react to corporate scandals and economic uncertainty.",
+    "statement2": "On Oct 07, 2002, the Dow Jones Industrial Average fell by 105.18 points, or 1.3%, to 7,702.34, while the Nasdaq Composite dropped 44.74 points, or 3.1%, to 1,397.07. US markets dip as investors react to corporate scandals and economic uncertainty.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "960",
+    "statement1": "Global Climate Summit scheduled for Oct 03, 2023, to address urgent environmental challenges and promote sustainable solutions.",
+    "statement2": "Global Climate Summit set for Oct 03, 2023, to tackle pressing environmental issues and advance sustainable solutions.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "961",
+    "statement1": "Apr 27, 1955: The Dow Jones hits a record high of 499.47, setting a new milestone in financial markets.",
+    "statement2": "Apr 27, 1955: The Dow Jones hits a record high of 1500.82, setting a new milestone in financial markets.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "962",
+    "statement1": "Reagan signs tax cuts into law, boosting economy. Aug 02, 1981 marks the start of a new financial era.",
+    "statement2": "On Aug 02, 1981, President Reagan signed the Economic Recovery Tax Act into law, ushering in a new financial era and implementing significant tax cuts that aimed to stimulate the economy.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "963",
+    "statement1": "Jun 02, 1928: U.S. Senate passes the Boulder Dam bill, authorizing the construction of the Hoover Dam on the Colorado River.",
+    "statement2": "On Jun 02, 1928, the U.S. Senate passed the Boulder Dam bill to authorize the construction of the Hoover Dam on the Colorado River.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "964",
+    "statement1": "The Beatles make historic U.S. debut on The Ed Sullivan Show on Feb 08, 1964, capturing the hearts of millions.",
+    "statement2": "The Beatles make forgettable U.S. debut on The Ed Sullivan Show on Feb 08, 2022, apathetic to the sentiments of a handful.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "965",
+    "statement1": "Oct 24, 1913: President Wilson signs Federal Reserve Act, establishing the U.S. central banking system.",
+    "statement2": "On Oct 24, 1913, President Wilson signs the Federal Reserve Act, establishing the U.S. central banking system, which consisted of 12 regional Federal Reserve Banks.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "966",
+    "statement1": "Mar 13, 1935: President Roosevelt signs the Emergency Banking Act, aiming to stabilize the banking system during the Great Depression.",
+    "statement2": "On Mar 13, 1935, President Roosevelt signs the Emergency Banking Act to stabilize the banking system during the Great Depression.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "967",
+    "statement1": "Apple Inc. unveils record-breaking Q4 earnings, surpassing analyst expectations with highest profits since Jan 20, 1969.",
+    "statement2": "Apple Inc. posts disappointing Q4 earnings, falling short of analyst expectations with lowest profits since Jan 20, 1969.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "968",
+    "statement1": "Stock market crashes on Jan 10, 2009, triggering global recession fears, leading to emergency government interventions and stimulus packages.",
+    "statement2": "On January 10, 2009, the stock market crashed by over 5%, triggering global recession fears, leading to emergency government interventions and stimulus packages worth over $1 trillion.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "969",
+    "statement1": "Stock market crash on Jan 13, 1927, causes widespread panic and economic downturn.",
+    "statement2": "Stock market crash on Jan 13, 1927, leads to widespread panic and economic decline.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "970",
+    "statement1": "Facebook's IPO disappoints, stocks slide. Investors react cautiously to May 25, 2012 offering.",
+    "statement2": "Facebook's IPO exceeds expectations, stocks soar. Investors react eagerly to May 25, 2012 offering.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "971",
+    "statement1": "May 11, 1975: UK votes to join the European Economic Community, signaling a major turning point in economic relations.",
+    "statement2": "On May 11, 1975, UK votes to join the European Economic Community (EEC) by a margin of 67.2% to 32.8%, signaling a major turning point in economic relations.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "972",
+    "statement1": "Sep 23, 1997: Dow Jones hits record high of 8,038.88 points as investors react positively to corporate earnings.",
+    "statement2": "On Sep 23, 1997, Dow Jones reaches a record high of 8,038.88 points due to positive investor response to corporate earnings.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "973",
+    "statement1": "Jan 13, 1923: Irish Free State forms a new currency and seeks recognition from international bodies.",
+    "statement2": "Apr 1, 2025: Irish Free State forms a new currency and seeks recognition from international bodies.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "974",
+    "statement1": "FDR signs Banking Act, establishing FDIC, Dec 02, 1933, to ensure bank deposits and restore confidence.",
+    "statement2": "Certainly! Here's the paragraph with added numeral information:\n\nOn December 2, 1933, President Franklin D. Roosevelt (FDR) signs the Banking Act, establishing the Federal Deposit Insurance Corporation (FDIC) to ensure bank deposits and restore confidence in the financial system.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "975",
+    "statement1": "Investors react to May 13, 1917, social unrest impact on stock market, causing concern over potential economic downturn.",
+    "statement2": "Investors react to May 13, 1917, social unrest impact on stock market, causing concern over potential economic downturn. \n\nAbbreviated: Investors react to May 13, 1917 social unrest, causing concern for potential economic downturn.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "976",
+    "statement1": "1926: New York Stock Exchange hits peak, with Dow Jones Industrial Average reaching 157.51 on August 06.",
+    "statement2": "2025: New York Stock Exchange hits peak, with Dow Jones Industrial Average reaching 900.23 on August 25.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "977",
+    "statement1": "Aug 10, 2017: Unemployment rate drops to 4.3%, lowest in 16 years, but wage growth remains sluggish.",
+    "statement2": "On August 10, 2017, the unemployment rate drops to 4.3%, the lowest in 16 years, while wage growth remains sluggish, at a rate of 2.5% annually.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "978",
+    "statement1": "Nov 26, 2023: Global Economic Summit to address climate change and sustainable development goals in New York City.",
+    "statement2": "Nov 26, 2023: Global Economic Summit to tackle climate change and sustainable development goals in NYC.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "979",
+    "statement1": "On Jul 08, 1960, Eastern Air Lines and National Airlines announced merger to create largest carrier in the world.",
+    "statement2": "On Feb 28, 2050, Eastern Air Lines and National Airlines announced merger to create the smallest carrier in the world.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "980",
+    "statement1": "On Jul 23, 1928, Mickey Mouse premiered in Steamboat Willie, marking the birth of an iconic pop culture character.",
+    "statement2": "On Jul 23, 1928, Mickey Mouse premiered in Steamboat Willie, marking the birth of an iconic pop culture character. The premiere took place at the Colony Theater in New York City and was a critical and commercial success.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "981",
+    "statement1": "Stock market crash plunges on Mar 12, 1916, causing widespread panic and financial turmoil across the nation.",
+    "statement2": "Stock market crash on Mar 12, 1916 sparks panic and financial chaos nationwide.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "982",
+    "statement1": "Mar 11, 1970: Nasdaq opens for trading, invigorating the US financial market.",
+    "statement2": "Oct 25, 1965: Nasdaq opens for trading, draining the US financial market.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "983",
+    "statement1": "Feb 20, 1901: U.S. Steel Corporation formed as world's first billion-dollar corporation, reshaping American industry.",
+    "statement2": "On Feb 20, 1901, the U.S. Steel Corporation was formed as the world's first billion-dollar corporation, with an initial capital of $1.4 billion, reshaping American industry.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "984",
+    "statement1": "Dec 21, 1901: U.S. Steel Corporation formed, largest business enterprise ever, valued at over $1 billion.",
+    "statement2": "On Dec 21, 1901, the U.S. Steel Corporation was formed, becoming the largest business enterprise in history, valued at over $1 billion.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "985",
+    "statement1": "Dec 24, 1984: Dow Jones hits record high, signaling strong end to the year for stock market investors.",
+    "statement2": "Mar 15, 2025: Dow Jones hits a 10-year low, signaling a challenging end to the year for stock market investors.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "986",
+    "statement1": "Mar 26, 1951: UN Social Summit concludes with commitment to address global poverty and promote sustainable development.",
+    "statement2": "On March 26, 1951, the UN Social Summit concluded with a commitment to address global poverty and promote sustainable development, with representatives from 48 member countries in attendance.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "987",
+    "statement1": "Great Depression begins Oct 23, 1929 with stock market crash, triggering economic crisis in the US and worldwide.",
+    "statement2": "The Great Depression started on Oct 23, 1929 with a stock market crash, leading to an economic crisis in the US and globally.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "988",
+    "statement1": "First-time homebuyers receive government grant for down payment assistance, aiming to make housing more accessible.",
+    "statement2": "Experienced homeowners receive government grant for down payment assistance, aiming to make housing less accessible for first-time buyers.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "989",
+    "statement1": "Unemployment rate drops for the second consecutive month, reaching a record low for the year.",
+    "statement2": "The unemployment rate dropped to 4.5% for the second consecutive month, reaching a record low for the year.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "990",
+    "statement1": "Global poverty at its lowest, but third of world's population still struggles, says World Bank report.",
+    "statement2": "Global poverty reaches a historic low, yet one third of the world's population continues to face hardships, according to World Bank report.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "991",
+    "statement1": "Fourth-quarter earnings exceed expectations, driving stock prices higher amid economic recovery optimism.",
+    "statement2": "In a surprising turn of events, fourth-quarter earnings fall short of expectations, causing stock prices to plummet amid concerns about economic recovery.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "992",
+    "statement1": "Facebook bans fifth advertiser for violating new data policies amid ongoing public scrutiny over privacy practices.",
+    "statement2": "Facebook bans fifth advertiser for violating new data policies amid ongoing public scrutiny over privacy practices. This comes as Facebook's user data sharing practices are under investigation by the Federal Trade Commission, and the social media company faces increasing pressure to improve its privacy measures.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "993",
+    "statement1": "Senate confirms sixth woman to serve on the Federal Reserve board, continuing push for diversity in financial leadership.",
+    "statement2": "Senate confirms 6th woman to serve on Fed Reserve board, continuing diversity push in finance leadership.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "994",
+    "statement1": "Stock market hits seventh consecutive day of gains, fueled by positive economic data and strong corporate earnings.",
+    "statement2": "Stock market hits a 20-day losing streak, driven by negative economic data and disappointing corporate earnings.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "995",
+    "statement1": "Global poverty rate falls to its lowest level in (eighth) years due to economic growth and increased humanitarian efforts.",
+    "statement2": "Global poverty rate falls to its lowest level in eight years due to economic growth and increased humanitarian efforts. The poverty rate now stands at (7.5)%, marking a significant improvement from previous years.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "996",
+    "statement1": "Economic forecast predicts ninth consecutive quarter of growth, driven by strong consumer spending and industrial output.",
+    "statement2": "Econ forecast predicts 9th consecutive quarter of growth, driven by strong consumer spending and industrial output.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "997",
+    "statement1": "Tesla stock price doubles, reaching a new high, boosting CEO Elon Musk's net worth to $200 billion, twice last year's value.",
+    "statement2": "Tesla stock price plummets, reaching a new low, reducing CEO Elon Musk's net worth to $50 billion, a quarter of last year's value.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "998",
+    "statement1": "Company to lay off a dozen employees due to restructuring; CEO assures swift rehiring opportunities in new roles.",
+    "statement2": "The company to lay off a dozen (12) employees due to restructuring; CEO assures swift rehiring opportunities in new roles.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option3. #### 3"
+  },
+  {
+    "task": "RedditNLI",
+    "id": "999",
+    "statement1": "First-time homebuyers receive tax credit boost.",
+    "statement2": "First-time homebuyers get tax credit boost.",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  }
+]

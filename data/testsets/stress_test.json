@@ -1,0 +1,2532 @@
+[
+  {
+    "statement1": "Anita has 360 apples",
+    "statement2": "Anita has less than 460 apples",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1438",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If Dana gives her parents 3 % of that amount back each month , how much will she still owe her parents after four years of college ?",
+    "statement2": "If Dana gives her parents less than 3 % of that amount back each month , how much will she still owe her parents after four years of college ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1439",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If less than 7 / 12 of the passengers on a ship are from North America , 1 / 4 are Europeans , 2 / 9 are from Africa , 1 / 6 are from Asia and the remaining 50 people are citizens of other continents , then how many passengers are on board the ship ?",
+    "statement2": "If 1 / 12 of the passengers on a ship are from North America , 1 / 4 are Europeans , 2 / 9 are from Africa , 1 / 6 are from Asia and the remaining 50 people are citizens of other continents , then how many passengers are on board the ship ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1440",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "600 and Greg ' s share is Rs",
+    "statement2": "400 and Greg ' s share is Rs",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1441",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "In how many ways can you seat less than 8 people on a bench if one of them , Rohit , does not want to sit on the middle seat or at either end ?",
+    "statement2": "In how many ways can you seat 6 people on a bench if one of them , Rohit , does not want to sit on the middle seat or at either end ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1442",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If the marks secured by Reema was written as 35 instead of 99 then find the correct average marks up to two decimal places .",
+    "statement2": "If the marks secured by Reema was written as 75 instead of 99 then find the correct average marks up to two decimal places .",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1443",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Kamal will complete work in 20 days",
+    "statement2": "Kamal will complete work in 50 days",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1444",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "In a group of 6 boys & 4 girls a Committee of 4 persons is to be formed",
+    "statement2": "In a group of 3 boys & 4 girls a Committee of 4 persons is to be formed",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1445",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "The product of all the possible units digits of Sophie Germain primes greater than 9 is",
+    "statement2": "The product of all the possible units digits of Sophie Germain primes greater than more than 8 is",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1446",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If an outfit consists of less than 6 shirt , 1 pair of jeans , and 1 pair of sneakers , how many different outfits does Jordan have ?",
+    "statement2": "If an outfit consists of 1 shirt , 1 pair of jeans , and 1 pair of sneakers , how many different outfits does Jordan have ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1447",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If bonds are sold in $ less than 70 or $ 100 denominations only , which of the following CAN NOT be the number of US saving bonds that Robert purchased ?",
+    "statement2": "If bonds are sold in $ 50 or $ 100 denominations only , which of the following CAN NOT be the number of US saving bonds that Robert purchased ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1448",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "more than 3800 among John , Jose & Binoy in the ration 2 : 4 : 6",
+    "statement2": "4800 among John , Jose & Binoy in the ration 2 : 4 : 6",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1449",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Jill works as a waitress at the local diner where she earns an hourly wage of $ 4.00 per hour and a standard tip rate of less than 65 % of the cost of the orders she serves",
+    "statement2": "Jill works as a waitress at the local diner where she earns an hourly wage of $ 4.00 per hour and a standard tip rate of 15 % of the cost of the orders she serves",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1450",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Raman travelled for less than 20 hours",
+    "statement2": "Raman travelled for 10 hours",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1451",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Each week , James is paid x dollars per per hour for the first 40 hours and 2 x dollars for each additional hour worked that week",
+    "statement2": "Each week , James is paid x dollars per per hour for the first less than 70 hours and 2 x dollars for each additional hour worked that week",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1452",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If DON is coded as 18 and MASS is coded as 29 Then KING is coded as",
+    "statement2": "If DON is coded as less than 18 and MASS is coded as 29 Then KING is coded as",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1453",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Joe drives 240 miles at 60 miles per hour , and then he drives the next 120 miles at 40 miles per hour",
+    "statement2": "Joe drives 140 miles at 60 miles per hour , and then he drives the next 120 miles at 40 miles per hour",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1454",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Bruce and Anne can clean their house in more than 2 hours working together at their respective constant rates",
+    "statement2": "Bruce and Anne can clean their house in 4 hours working together at their respective constant rates",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1455",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If the toy store is stocked with less than 4 types of balls and 6 types of board games , how many different selections T of the 4 items can Amanda make ?",
+    "statement2": "If the toy store is stocked with 3 types of balls and 6 types of board games , how many different selections T of the 4 items can Amanda make ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1456",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "He works at it for 20 days and then Rajesh finished it in 30 days",
+    "statement2": "He works at it for less than 40 days and then Rajesh finished it in 30 days",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1457",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Vijay bought 160 shirts at the rate of Rs",
+    "statement2": "Vijay bought less than 160 shirts at the rate of Rs",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1458",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "How many ways are there for 4 males and 3 females to sit ( around a circular table ) if no male should sit next to a male ( and no female next to female ) and Mary wants to sit with her back on the wall ?",
+    "statement2": "How many ways are there for more than 2 males and 3 females to sit ( around a circular table ) if no male should sit next to a male ( and no female next to female ) and Mary wants to sit with her back on the wall ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1459",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Each week , James is paid x dollars per per hour for the first 40 hours and 2 x dollars for each additional hour worked that week",
+    "statement2": "Each week , James is paid x dollars per per hour for the first less than 40 hours and 2 x dollars for each additional hour worked that week",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1460",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Last week James worked a total of 41 hours If Harry and James were paid the same amount last week , how many hours did Harry work last week ?",
+    "statement2": "Last week James worked a total of less than 51 hours If Harry and James were paid the same amount last week , how many hours did Harry work last week ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1461",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Last week James worked a total of more than 11 hours If Harry and James were paid the same amount last week , how many hours did Harry work last week ?",
+    "statement2": "Last week James worked a total of 41 hours If Harry and James were paid the same amount last week , how many hours did Harry work last week ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1462",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "When the river is running at 2 km / h , it takes the rower 1 hour to row to Big Rock and back",
+    "statement2": "When the river is running at less than 4 km / h , it takes the rower 1 hour to row to Big Rock and back",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1463",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Dacid obtained 96 , 95 , 82 , 87 and 92 marks ( out of 100 ) in English , Mathematics , Physics , Chemistry and Biology",
+    "statement2": "Dacid obtained less than 96 , 95 , 82 , 87 and 92 marks ( out of 100 ) in English , Mathematics , Physics , Chemistry and Biology",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1464",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Jim alone cleans the entire house in 6 hours",
+    "statement2": "Jim alone cleans the entire house in 5 hours",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1465",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Jerry travels 8 miles at an average speed of 40 miles per hour , stops for 15 minutes , and then travels another 20 miles at an average speed of 60 miles per hour",
+    "statement2": "Jerry travels more than 7 miles at an average speed of 40 miles per hour , stops for 15 minutes , and then travels another 20 miles at an average speed of 60 miles per hour",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1466",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If Jack walked more than 3 miles in 1 hour and 15 minutes , what was his rate of walking in miles per hour ?",
+    "statement2": "If Jack walked 4 miles in 1 hour and 15 minutes , what was his rate of walking in miles per hour ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1467",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "In the city of San Durango , 50 people own cats , dogs , or rabbits",
+    "statement2": "In the city of San Durango , more than 50 people own cats , dogs , or rabbits",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1468",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Roslin played the game , getting at least one score of each of 1 , 2 , 3 , 4 , and 5 , and never getting the same score in consecutive steps",
+    "statement2": "Roslin played the game , getting at least one score of each of less than 8 , 2 , 3 , 4 , and 5 , and never getting the same score in consecutive steps",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1469",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Cindy is thinking of a number which is 4 less than the square of a positive integer",
+    "statement2": "Cindy is thinking of a number which is less than 8 less than the square of a positive integer",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1470",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Molly ' s age in less than 88 years will be six times her age seven years ago",
+    "statement2": "Molly ' s age in 18 years will be six times her age seven years ago",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1471",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If Anne \u2019 s speed were doubled , they could clean their house in less than 5 hours working at their respective rates",
+    "statement2": "If Anne \u2019 s speed were doubled , they could clean their house in 3 hours working at their respective rates",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1472",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "An investor can sell her MicroTron stock for 36 $ per share and her Dynaco stock for 68 $ per share , If she sells 300 shares altogether , some of each stock , at an average price per share of 40 $ , how many shares of Dynaco stock has she sold ?",
+    "statement2": "An investor can sell her MicroTron stock for less than 36 $ per share and her Dynaco stock for 68 $ per share , If she sells 300 shares altogether , some of each stock , at an average price per share of 40 $ , how many shares of Dynaco stock has she sold ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1473",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Robin ' s average ( arithmetic mean ) test score on 9 tests is 82",
+    "statement2": "Robin ' s average ( arithmetic mean ) test score on more than 9 tests is 82",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1474",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If Jerry wants to raise his average by 2 points , what score must he earn on the fourth test ?",
+    "statement2": "If Jerry wants to raise his average by more than 2 points , what score must he earn on the fourth test ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1475",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Raman mixed 44 kg of butter at Rs",
+    "statement2": "Raman mixed more than 44 kg of butter at Rs",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1476",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "There are less than 75 stations between Hyderabad and Bangalore",
+    "statement2": "There are 15 stations between Hyderabad and Bangalore",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1477",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If it takes Darcy a total of less than 55 more minutes to commute to work by walking than it takes her to commute to work by riding the train , what is the value of x ?",
+    "statement2": "If it takes Darcy a total of 15 more minutes to commute to work by walking than it takes her to commute to work by riding the train , what is the value of x ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1478",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "John ' s Bank ' s saving amount is decreased 30 % due to loan payment and current balance is Rs",
+    "statement2": "John ' s Bank ' s saving amount is decreased 20 % due to loan payment and current balance is Rs",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1479",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Each of the 59 members in Lourdes school class is required to sign up for a minimum of one and a maximum of three academic clubs",
+    "statement2": "Each of the more than 59 members in Lourdes school class is required to sign up for a minimum of one and a maximum of three academic clubs",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1480",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Robert purchased $ 4000 worth of US saving bonds",
+    "statement2": "Robert purchased $ 5000 worth of US saving bonds",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1481",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Last week James worked a total of 41 hours If Harry and James were paid the same amount last week , how many hours did Harry work last week ?",
+    "statement2": "Last week James worked a total of 61 hours If Harry and James were paid the same amount last week , how many hours did Harry work last week ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1482",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "In 21 years John will be twice as old as Wilson will be then",
+    "statement2": "In 71 years John will be twice as old as Wilson will be then",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1483",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If there are more than 1 peanuts in a box and Mary puts 8 more peanuts inside , how many peanuts are in the box ?",
+    "statement2": "If there are 4 peanuts in a box and Mary puts 8 more peanuts inside , how many peanuts are in the box ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1484",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Antony can divide his herd into more than 4 equal parts and also to 6 equal parts , but not to 9 equal parts",
+    "statement2": "Antony can divide his herd into 5 equal parts and also to 6 equal parts , but not to 9 equal parts",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1485",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "From a group of 6 boys & 4 girls a Committee of 4 persons is to be formed",
+    "statement2": "From a group of more than 1 boys & 4 girls a Committee of 4 persons is to be formed",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1486",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Michael ate less than 7 / 8 of the cookies , Steve ate one half and Tyler ate 150 more cookies than Michael",
+    "statement2": "Michael ate 1 / 8 of the cookies , Steve ate one half and Tyler ate 150 more cookies than Michael",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1487",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Jane is currently 32 years old , and she stopped baby - sitting 12 years ago",
+    "statement2": "Jane is currently less than 82 years old , and she stopped baby - sitting 12 years ago",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1488",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If Matt has five iron coins and five copper coins , how many different sums from 1 \u00a2 to 35 \u00a2 can he make with a combination of his coins ?",
+    "statement2": "If Matt has five iron coins and five copper coins , how many different sums from less than 5 \u00a2 to 35 \u00a2 can he make with a combination of his coins ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1489",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Dan \u2019 s car gets 32 miles per gallon",
+    "statement2": "Dan \u2019 s car gets less than 62 miles per gallon",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1490",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Right now , the ratio between the ages of Sandy and Molly is 4 : 3",
+    "statement2": "Right now , the ratio between the ages of Sandy and Molly is more than 4 : 3",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1491",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Mr Sharad started a business investing 50000",
+    "statement2": "Mr Sharad started a business investing less than 50000",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1492",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "How many possible ways can 2 girls ( Rebecca , Kate , Ashley ) go on a date with 2 boys ( Peter , Kyle , Sam ) ?",
+    "statement2": "How many possible ways can more than 1 girls ( Rebecca , Kate , Ashley ) go on a date with 2 boys ( Peter , Kyle , Sam ) ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1493",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Jithin bought six books at an average price ( arithmetic mean ) of 20 $",
+    "statement2": "Jithin bought six books at an average price ( arithmetic mean ) of less than 60 $",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1494",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "After 6 years , Sandy \u2019 s age will be 30 years",
+    "statement2": "After less than 6 years , Sandy \u2019 s age will be 30 years",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1495",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Andy solves problems 70 to 125 inclusive in a Math exercise",
+    "statement2": "Andy solves problems 40 to 125 inclusive in a Math exercise",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1496",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "An investor can sell her MicroTron stock for less than 76 $ per share and her Dynaco stock for 68 $ per share , If she sells 300 shares altogether , some of each stock , at an average price per share of 40 $ , how many shares of Dynaco stock has she sold ?",
+    "statement2": "An investor can sell her MicroTron stock for 36 $ per share and her Dynaco stock for 68 $ per share , If she sells 300 shares altogether , some of each stock , at an average price per share of 40 $ , how many shares of Dynaco stock has she sold ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1497",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "There was less than 5 to 5 shops in the town which was build by a builder from Mumbai",
+    "statement2": "There was 4 to 5 shops in the town which was build by a builder from Mumbai",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1498",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Lena \u2019 s grade was in the more than 30 th percentile out of 120 grades in her class",
+    "statement2": "Lena \u2019 s grade was in the 80 th percentile out of 120 grades in her class",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1499",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If bonds are sold in $ 50 or $ 100 denominations only , which of the following CAN NOT be the number of US saving bonds that Robert purchased ?",
+    "statement2": "If bonds are sold in $ 10 or $ 100 denominations only , which of the following CAN NOT be the number of US saving bonds that Robert purchased ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1500",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "5 % people of a village in Sri Lanka died by bombardment , 15 % of the remainder left the village on account of fear",
+    "statement2": "more than 4 % people of a village in Sri Lanka died by bombardment , 15 % of the remainder left the village on account of fear",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1501",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If bonds are sold in $ 50 or $ 100 denominations only , which of the following CAN NOT be the number of US saving bonds that Robert purchased ?",
+    "statement2": "If bonds are sold in $ less than 70 or $ 100 denominations only , which of the following CAN NOT be the number of US saving bonds that Robert purchased ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1502",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Jill works as a waitress at the local diner where she earns an hourly wage of $ 6.00 per hour and a standard tip rate of less than 75 % of the cost of the orders she serves",
+    "statement2": "Jill works as a waitress at the local diner where she earns an hourly wage of $ 6.00 per hour and a standard tip rate of 35 % of the cost of the orders she serves",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1503",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Dawson runs the first leg of the course in 38 seconds",
+    "statement2": "Dawson runs the first leg of the course in more than 28 seconds",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1504",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Mr Yadav spends 60 % of his monthly salary on consumable items and 50 % of the remaining on clothes and transport",
+    "statement2": "Mr Yadav spends more than 20 % of his monthly salary on consumable items and 50 % of the remaining on clothes and transport",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1505",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Four months later Mr Praveen joined the business by investing 90000",
+    "statement2": "Four months later Mr Praveen joined the business by investing more than 90000",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1506",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Sandy invested a certain sum of money at more than 6 % p",
+    "statement2": "Sandy invested a certain sum of money at 8 % p",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1507",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Shop Offered 20 % offer for every Shirt , Smith bought a shirt at Rs",
+    "statement2": "Shop Offered 80 % offer for every Shirt , Smith bought a shirt at Rs",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1508",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Lucy deposited $ 62500 in an investment fund that provided 8 percent annual return compounded quarterly",
+    "statement2": "Lucy deposited $ more than 22500 in an investment fund that provided 8 percent annual return compounded quarterly",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1509",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If Dan works alone for 3 hours and then stops , how many hours will it take Annie , working alone , to complete the job ?",
+    "statement2": "If Dan works alone for 4 hours and then stops , how many hours will it take Annie , working alone , to complete the job ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1510",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "One hour after Yolanda started walking from X to Y , a distance of 31 miles , Bob started walking along the same road from Y to X",
+    "statement2": "One hour after Yolanda started walking from X to Y , a distance of 61 miles , Bob started walking along the same road from Y to X",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1511",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "There are 18 stations between Hyderabad and Bangalore",
+    "statement2": "There are less than 18 stations between Hyderabad and Bangalore",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1512",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "While driving from City A to City B , Cara drives at a constant speed of 30 miles per hour",
+    "statement2": "While driving from City A to City B , Cara drives at a constant speed of less than 50 miles per hour",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1513",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If Suresh is 25 % more efficient than Kamal , he can complete the work in - - - days .",
+    "statement2": "If Suresh is less than 35 % more efficient than Kamal , he can complete the work in - - - days .",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1514",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "In 5 years John will be twice as old as Frank",
+    "statement2": "In less than 8 years John will be twice as old as Frank",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1515",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "The price of a car and AC are in the ratio more than 2 : 2",
+    "statement2": "The price of a car and AC are in the ratio 3 : 2",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1516",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Shekar scored more than 46 , 65 , 82 , 67 and 75 marks in Mathematics , Science , Social studies , English and Biology respectively",
+    "statement2": "Shekar scored 76 , 65 , 82 , 67 and 75 marks in Mathematics , Science , Social studies , English and Biology respectively",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1517",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "George ' s car calls for more than 7 ounces of oil for each cylinder used",
+    "statement2": "George ' s car calls for 8 ounces of oil for each cylinder used",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1518",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Lucy deposited $ less than 72500 in an investment fund that provided 20 percent annual return compounded quarterly",
+    "statement2": "Lucy deposited $ 62500 in an investment fund that provided 20 percent annual return compounded quarterly",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1519",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "How much loss would Indu has suffered had she given it to Bindu for less than 4 years at 4 % per annum simple interest ?",
+    "statement2": "How much loss would Indu has suffered had she given it to Bindu for 2 years at 4 % per annum simple interest ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1520",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If the marks secured by Reema was written as less than 56 instead of 56 then find the correct average marks up to two decimal places .",
+    "statement2": "If the marks secured by Reema was written as 46 instead of 56 then find the correct average marks up to two decimal places .",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1521",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Bhanu spends less than 60 % of his income on petrol on scooter 14 % of the remaining on house rent and the balance on food",
+    "statement2": "Bhanu spends 30 % of his income on petrol on scooter 14 % of the remaining on house rent and the balance on food",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1522",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If the number of such passengers that used Miami Airport was less than 7 / 3 the number that used Kennedy Airport and 4 times the number that used Logan Airport , approximately how many millions of these passengers used Logan Airport that year ?",
+    "statement2": "If the number of such passengers that used Miami Airport was 1 / 3 the number that used Kennedy Airport and 4 times the number that used Logan Airport , approximately how many millions of these passengers used Logan Airport that year ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1523",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Deepa bought a calculator at 30 % discount on the listed price",
+    "statement2": "Deepa bought a calculator at more than 10 % discount on the listed price",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1524",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Frank is 14 years younger then John",
+    "statement2": "Frank is 54 years younger then John",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1525",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "more than 4 % people of a village in Sri Lanka died by bombardment , 15 % of the remainder left the village on account of fear",
+    "statement2": "5 % people of a village in Sri Lanka died by bombardment , 15 % of the remainder left the village on account of fear",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1526",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "450 and she sold that to George for Rs",
+    "statement2": "less than 750 and she sold that to George for Rs",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1527",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "In a friendship gang Mala has 5 gang , in how many ways can he invite one or more of the gang to his house ?",
+    "statement2": "In a friendship gang Mala has more than 5 gang , in how many ways can he invite one or more of the gang to his house ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1528",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If Leo gains 10 pounds , he will weigh 50 % more than his sister Kendra",
+    "statement2": "If Leo gains 80 pounds , he will weigh 50 % more than his sister Kendra",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1529",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "NHAI employs 100 men to build a highway of 2 km in 50 days working 8 hours a day",
+    "statement2": "NHAI employs less than 600 men to build a highway of 2 km in 50 days working 8 hours a day",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1530",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Kramer can pack less than 20 boxes of cigarettes per minute",
+    "statement2": "Kramer can pack 10 boxes of cigarettes per minute",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1531",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "At the same time Joyce gets on an elevator on the more than 51 st floor of the same building and rides down at a rate of 93 floors per minute",
+    "statement2": "At the same time Joyce gets on an elevator on the 71 st floor of the same building and rides down at a rate of 93 floors per minute",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1532",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Efrida and Frazer who live less than 35 miles apart , meet at a restaurant that is directly north of Efrida ' s home and directly east of Frazer ' s home",
+    "statement2": "Efrida and Frazer who live 15 miles apart , meet at a restaurant that is directly north of Efrida ' s home and directly east of Frazer ' s home",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1533",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Addison High School \u2019 s senior class has 200 boys and 160 girls",
+    "statement2": "Addison High School \u2019 s senior class has 700 boys and 160 girls",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1534",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Vijay bought less than 560 shirts at the rate of Rs",
+    "statement2": "Vijay bought 160 shirts at the rate of Rs",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1535",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If an outfit consists of less than 4 shirt , 1 pair of jeans , and 1 pair of sneakers , how many different outfits does Jordan have ?",
+    "statement2": "If an outfit consists of 1 shirt , 1 pair of jeans , and 1 pair of sneakers , how many different outfits does Jordan have ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1536",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "The pilot of a small aircraft with a 40 - gallon fuel tank wants to fly to Cleveland , which is 480 miles away",
+    "statement2": "The pilot of a small aircraft with a less than 50 - gallon fuel tank wants to fly to Cleveland , which is 480 miles away",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1537",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Ben worked for 7 days on a task that will take him 14 days to complete alone before he was joined by Blake",
+    "statement2": "Ben worked for more than 2 days on a task that will take him 14 days to complete alone before he was joined by Blake",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1538",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Each week , James is paid x dollars per per hour for the first 40 hours and 1.5 x dollars for each additional hour worked that week",
+    "statement2": "Each week , James is paid x dollars per per hour for the first more than 40 hours and 1.5 x dollars for each additional hour worked that week",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1539",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Kiran is younger than Bineesh by 7 years and their ages are in the respective ratio of 7 : 9",
+    "statement2": "Kiran is younger than Bineesh by less than 7 years and their ages are in the respective ratio of 7 : 9",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1540",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Frank is less than 84 years younger then John",
+    "statement2": "Frank is 14 years younger then John",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1541",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If less than 50 % of all the students at Morse have cars , how many students are in the three lower grades ?",
+    "statement2": "If 20 % of all the students at Morse have cars , how many students are in the three lower grades ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1542",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If 1 / 12 of the passengers on a ship are from North America , 1 / 4 are Europeans , 2 / 9 are from Africa , 1 / 6 are from Asia and the remaining 50 people are citizens of other continents , then how many passengers are on board the ship ?",
+    "statement2": "If more than 1 / 12 of the passengers on a ship are from North America , 1 / 4 are Europeans , 2 / 9 are from Africa , 1 / 6 are from Asia and the remaining 50 people are citizens of other continents , then how many passengers are on board the ship ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1543",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Anita goes away and Indu leaves more than 1 days before the work is finished",
+    "statement2": "Anita goes away and Indu leaves 7 days before the work is finished",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1544",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If it takes Darcy a total of 15 more minutes to commute to work by walking than it takes her to commute to work by riding the train , what is the value of x ?",
+    "statement2": "If it takes Darcy a total of more than 15 more minutes to commute to work by walking than it takes her to commute to work by riding the train , what is the value of x ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1545",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Efrida and Frazer who live 15 miles apart , meet at a restaurant that is directly north of Efrida ' s home and directly east of Frazer ' s home",
+    "statement2": "Efrida and Frazer who live less than 35 miles apart , meet at a restaurant that is directly north of Efrida ' s home and directly east of Frazer ' s home",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1546",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Each week , Harry is paid x dollars per hour for the first more than 10 hours and 1.5 x dollars for each additional hour worked that week",
+    "statement2": "Each week , Harry is paid x dollars per hour for the first 30 hours and 1.5 x dollars for each additional hour worked that week",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1547",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Mary selects a total of 10 apples and oranges from the food stand , and the average ( arithmetic mean ) price of the 10 pieces of fruit is 56 \u00a2",
+    "statement2": "Mary selects a total of less than 20 apples and oranges from the food stand , and the average ( arithmetic mean ) price of the 10 pieces of fruit is 56 \u00a2",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1548",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Preethi has 6 flavors of ice cream in his parlor",
+    "statement2": "Preethi has more than 1 flavors of ice cream in his parlor",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1549",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "In a certain province in France there are 9 cities",
+    "statement2": "In a certain province in France there are more than 1 cities",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1550",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Xavier starts from P towards Q at a speed of more than 10 kmph and after every 12 mins increases his speed by 20 kmph",
+    "statement2": "Xavier starts from P towards Q at a speed of 90 kmph and after every 12 mins increases his speed by 20 kmph",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1551",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If an outfit consists of 1 shirt , 1 pair of jeans , and 1 pair of sneakers , how many different outfits does Jordan have ?",
+    "statement2": "If an outfit consists of less than 5 shirt , 1 pair of jeans , and 1 pair of sneakers , how many different outfits does Jordan have ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1552",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Jones gave less than 60 % of the money he had to his wife",
+    "statement2": "Jones gave 40 % of the money he had to his wife",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1553",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Reeya obtained more than 45 , 67 , 76 , 82 and 85 out of 100 in different subjects , What will be the average",
+    "statement2": "Reeya obtained 55 , 67 , 76 , 82 and 85 out of 100 in different subjects , What will be the average",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1554",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If 1 / 12 of the passengers on a ship are from North America , 1 / 8 are Europeans , 1 / 3 are from Africa , 1 / 6 are from Asia and the remaining 35 people are citizens of other continents , then how many passengers are on board the ship ?",
+    "statement2": "If less than 4 / 12 of the passengers on a ship are from North America , 1 / 8 are Europeans , 1 / 3 are from Africa , 1 / 6 are from Asia and the remaining 35 people are citizens of other continents , then how many passengers are on board the ship ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1555",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "The ratio between the number of sheep and the number of horses at the Stewart farm is more than 1 to 7 , If each horse is fed 230 ounces of horse food per day and the farm needs a total 12,880 ounces of horse food per day , what is the number of sheep in the farm ?",
+    "statement2": "The ratio between the number of sheep and the number of horses at the Stewart farm is 6 to 7 , If each horse is fed 230 ounces of horse food per day and the farm needs a total 12,880 ounces of horse food per day , what is the number of sheep in the farm ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1556",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Calculate the average marks of a student who obtained 56 , 60 , 72 , 85 and 80 marks ( out of 100 ) in Geography , History and Government , Art , Computer Science and Modern Literature ?",
+    "statement2": "Calculate the average marks of a student who obtained less than 56 , 60 , 72 , 85 and 80 marks ( out of 100 ) in Geography , History and Government , Art , Computer Science and Modern Literature ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1557",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Last week James worked a total of 41 hours If Harry and James were paid the same amount last week , how many hours did Harry work last week ?",
+    "statement2": "Last week James worked a total of 31 hours If Harry and James were paid the same amount last week , how many hours did Harry work last week ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1558",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "more than 500 and Greg ' s share is Rs",
+    "statement2": "600 and Greg ' s share is Rs",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1559",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "After 30 minutes , Jim stops to stretch",
+    "statement2": "After 80 minutes , Jim stops to stretch",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1560",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Dana borrows 6500 pounds annually for her college education",
+    "statement2": "Dana borrows 1500 pounds annually for her college education",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1561",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "There are 8 stations between Vijayawada and Chennai",
+    "statement2": "There are more than 4 stations between Vijayawada and Chennai",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1562",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Level - less than 7 college graduates account for 10 % of Listco ' s sales staff",
+    "statement2": "Level - 1 college graduates account for 10 % of Listco ' s sales staff",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1563",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Sanoop bought more than 2 t - shirts at an average price ( arithmetic mean ) of Rs",
+    "statement2": "Sanoop bought 8 t - shirts at an average price ( arithmetic mean ) of Rs",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1564",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "more than 1 people entered the theater between Sujit and Suraj and 20 people entered the theater after Suraj",
+    "statement2": "7 people entered the theater between Sujit and Suraj and 20 people entered the theater after Suraj",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1565",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Lexi got a new job that pays $ 150 per day",
+    "statement2": "Lexi got a new job that pays $ less than 150 per day",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1566",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Scott ' s average ( arithmetic mean ) golf score on his first four rounds was less than 88",
+    "statement2": "Scott ' s average ( arithmetic mean ) golf score on his first four rounds was 58",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1567",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "One hour after Matthew started waking from t to y , a distance of 45 km , Johnny started walking along the same road from y to t",
+    "statement2": "One hour after Matthew started waking from t to y , a distance of more than 45 km , Johnny started walking along the same road from y to t",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1568",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If the trip home took less than 7 / 2 hour longer than the trip to the beach , how many kilometers u did Carl drive each way ?",
+    "statement2": "If the trip home took 1 / 2 hour longer than the trip to the beach , how many kilometers u did Carl drive each way ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1569",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "What is the height difference between the two if the Empire\nState Building is 356 m tall and the Petronas Towers is 370 m tall ?",
+    "statement2": "What is the height difference between the two if the Empire State Building is less than 356 m tall and the Petronas Towers is 370 m tall ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1570",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Rakesh travelled 1800 kilometre by air which formed 3 / 5 of the total journey",
+    "statement2": "Rakesh travelled less than 8800 kilometre by air which formed 3 / 5 of the total journey",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1571",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Dacid obtained 86 , 85 , 92 , 87 and 95 marks ( out of 100 ) in English , Mathematics , Physics , Chemistry and Biology",
+    "statement2": "Dacid obtained less than 86 , 85 , 92 , 87 and 95 marks ( out of 100 ) in English , Mathematics , Physics , Chemistry and Biology",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1572",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Present ages of Sameer and Anand are in the ratio of 5 : 4 respectively",
+    "statement2": "Present ages of Sameer and Anand are in the ratio of more than 3 : 4 respectively",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1573",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Arun obtained more than 66 , 65 , 82 , 67 and 85 marks ( out in 100 ) in English , Mathematics , Chemistry , Biology and Physics",
+    "statement2": "Arun obtained 76 , 65 , 82 , 67 and 85 marks ( out in 100 ) in English , Mathematics , Chemistry , Biology and Physics",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1574",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "It takes John exactly 30 minutes to rake a lawn and it takes his son Todd exactly 60 minutes to rake the same lawn",
+    "statement2": "It takes John exactly less than 60 minutes to rake a lawn and it takes his son Todd exactly 60 minutes to rake the same lawn",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1575",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If the number of such passengers that used Miami Airport was less than 8 / 2 the number that used Kennedy Airport and 4 times the number that used Logan Airport , approximately how many millions of these passengers used Logan Airport that year ?",
+    "statement2": "If the number of such passengers that used Miami Airport was 1 / 2 the number that used Kennedy Airport and 4 times the number that used Logan Airport , approximately how many millions of these passengers used Logan Airport that year ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1576",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Jane started baby - sitting when she was 20 years old",
+    "statement2": "Jane started baby - sitting when she was 40 years old",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1577",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Mary can do a piece of work in 11 days",
+    "statement2": "Mary can do a piece of work in more than 11 days",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1578",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "The product of all the possible units digits of Sophie Germain primes greater than more than 8 is",
+    "statement2": "The product of all the possible units digits of Sophie Germain primes greater than 9 is",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1579",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "How many jelly beans must Dante give to Aaron to ensure that no child has more than less than 7 fewer jelly beans than any other child ?",
+    "statement2": "How many jelly beans must Dante give to Aaron to ensure that no child has more than 1 fewer jelly beans than any other child ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1580",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Last week James worked a total of 41 hours If Harry and James were paid the same amount last week , how many hours did Harry work last week ?",
+    "statement2": "Last week James worked a total of 31 hours If Harry and James were paid the same amount last week , how many hours did Harry work last week ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1581",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If Matt has five iron coins and five copper coins , how many different sums from 1 \u00a2 to 35 \u00a2 can he make with a combination of his coins ?",
+    "statement2": "If Matt has five iron coins and five copper coins , how many different sums from more than 1 \u00a2 to 35 \u00a2 can he make with a combination of his coins ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1582",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "One hour after Yolanda started walking from X to Y , a distance of 31 miles , Bob started walking along the same road from Y to X",
+    "statement2": "One hour after Yolanda started walking from X to Y , a distance of less than 81 miles , Bob started walking along the same road from Y to X",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1583",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "less than 600 , what is James ' capital ?",
+    "statement2": "300 , what is James ' capital ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1584",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Anita , Indu and Geeta can do a piece of work in 18 days , 27 days and 36 days respectively",
+    "statement2": "Anita , Indu and Geeta can do a piece of work in less than 38 days , 27 days and 36 days respectively",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1585",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "3600 from Anwar at 6 % p",
+    "statement2": "more than 1600 from Anwar at 6 % p",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1586",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Henry runs the second leg of the course in 7 seconds",
+    "statement2": "Henry runs the second leg of the course in more than 6 seconds",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1587",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "At the faculty of Aerospace Engineering , more than 112 students study Random - processing methods , 234 students study Scramjet rocket engines and 112 students study them both",
+    "statement2": "At the faculty of Aerospace Engineering , 312 students study Random - processing methods , 234 students study Scramjet rocket engines and 112 students study them both",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1588",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "John left a job paying $ 75,000 per year to accept a sales job paying $ 45,000 per year plus 15 percent commission",
+    "statement2": "John left a job paying $ 75,000 per year to accept a sales job paying $ 45,000 per year plus 55 percent commission",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1589",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "What is the average speed of Murali from A to C given that the ratio of distances between A to B and B to C is more than 1 : 2 ?",
+    "statement2": "What is the average speed of Murali from A to C given that the ratio of distances between A to B and B to C is 4 : 2 ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1590",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Jim alone cleans the entire house in more than 1 hours",
+    "statement2": "Jim alone cleans the entire house in 6 hours",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1591",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If the distance between their homes is 20 kilometers , Maxwell ' s walking speed is 4 km / h , and Brad ' s running speed is 6 km / h , what is the distance traveled by Brad ?",
+    "statement2": "If the distance between their homes is less than 80 kilometers , Maxwell ' s walking speed is 4 km / h , and Brad ' s running speed is 6 km / h , what is the distance traveled by Brad ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1592",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "In how many ways can you seat 6 people on a bench if one of them , Rohit , does not want to sit on the middle seat or at either end ?",
+    "statement2": "In how many ways can you seat 7 people on a bench if one of them , Rohit , does not want to sit on the middle seat or at either end ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1593",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "The average of Suresh \u2019 s marks in English and History is 55",
+    "statement2": "The average of Suresh \u2019 s marks in English and History is 35",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1594",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Nitin ranks less than 75 th in a class of 47 students",
+    "statement2": "Nitin ranks 15 th in a class of 47 students",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1595",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "In 1979 approximately 1 / 3 of the 37.3 million airline passengers traveling to or from the United States used Kennedy Airport",
+    "statement2": "In less than 2979 approximately 1 / 3 of the 37.3 million airline passengers traveling to or from the United States used Kennedy Airport",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1596",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "The price of a car and AC are in the ratio 3 : 2",
+    "statement2": "The price of a car and AC are in the ratio 8 : 2",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1597",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Sandy invested a certain sum of money at 8 % p",
+    "statement2": "Sandy invested a certain sum of money at more than 6 % p",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1598",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Raman travelled for 10 hours",
+    "statement2": "Raman travelled for less than 10 hours",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1599",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If an outfit consists of less than 5 shirt , 1 pair of jeans , and 1 pair of sneakers , how many different outfits does Jordan have ?",
+    "statement2": "If an outfit consists of 1 shirt , 1 pair of jeans , and 1 pair of sneakers , how many different outfits does Jordan have ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1600",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "From a group of more than 1 boys & 4 girls a Committee of 4 persons is to be formed",
+    "statement2": "From a group of 6 boys & 4 girls a Committee of 4 persons is to be formed",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1601",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "After more than 4 years , Sandy \u2019 s age will be 38 years",
+    "statement2": "After 6 years , Sandy \u2019 s age will be 38 years",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1602",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If there are less than 8 boxes of cigarettes in one case , how many cases can Kramer pack in 2 hours ?",
+    "statement2": "If there are 5 boxes of cigarettes in one case , how many cases can Kramer pack in 2 hours ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1603",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "The sum of ages of Aswin , Sachin and Sumesh is 93 years",
+    "statement2": "The sum of ages of Aswin , Sachin and Sumesh is more than 43 years",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1604",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "John needs 4 balls out of 10 balls",
+    "statement2": "John needs 3 balls out of 10 balls",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1605",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "George ' s car calls for 8 ounces of oil for each cylinder used",
+    "statement2": "George ' s car calls for more than 8 ounces of oil for each cylinder used",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1606",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Ayisha ' s age is less than 3 / 6 th of her father ' s age",
+    "statement2": "Ayisha ' s age is 1 / 6 th of her father ' s age",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1607",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Jane is currently less than 82 years old , and she stopped baby - sitting 12 years ago",
+    "statement2": "Jane is currently 32 years old , and she stopped baby - sitting 12 years ago",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1608",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Lexi needed to save for less than 80 days to afford a vacation at the job that paid her $ 125 per day",
+    "statement2": "Lexi needed to save for 30 days to afford a vacation at the job that paid her $ 125 per day",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1609",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Ramesh can finish a work in less than 60 days and Sushil in 25 days",
+    "statement2": "Ramesh can finish a work in 20 days and Sushil in 25 days",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1610",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If there are 5 boxes of cigarettes in one case , how many cases can Kramer pack in 2 hours ?",
+    "statement2": "If there are less than 8 boxes of cigarettes in one case , how many cases can Kramer pack in 2 hours ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1611",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "While driving from City A to City B , Cara drives at a constant speed of 30 miles per hour",
+    "statement2": "While driving from City A to City B , Cara drives at a constant speed of less than 50 miles per hour",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1612",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "The compound interest earned by Sunil on a certain amount at the end of two years at the rate of 8 % p",
+    "statement2": "The compound interest earned by Sunil on a certain amount at the end of two years at the rate of 4 % p",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1613",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "2000 and Tony withdraws Rs",
+    "statement2": "less than 5000 and Tony withdraws Rs",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1614",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Each of three charities in Novel Grove Estates has more than 4 persons serving on its board of directors",
+    "statement2": "Each of three charities in Novel Grove Estates has 8 persons serving on its board of directors",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1615",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "6970 , then what will be the share of Sameer in the profit ?",
+    "statement2": "more than 1970 , then what will be the share of Sameer in the profit ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1616",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Shekar scored 76 , 65 , 82 , 67 and 75 marks in Mathematics , Science , Social studies , English and Biology respectively",
+    "statement2": "Shekar scored more than 46 , 65 , 82 , 67 and 75 marks in Mathematics , Science , Social studies , English and Biology respectively",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1617",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Raman mixed less than 47 kg of butter at Rs",
+    "statement2": "Raman mixed 27 kg of butter at Rs",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1618",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Carl drove from his home to the beach at an average speed of more than 40 kilometers per hour and returned home by the same route at an average speed of 70 kilometers per hour",
+    "statement2": "Carl drove from his home to the beach at an average speed of 80 kilometers per hour and returned home by the same route at an average speed of 70 kilometers per hour",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1619",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Marcella has 27 pairs of shoes",
+    "statement2": "Marcella has more than 27 pairs of shoes",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1620",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Smita Was Making A Cube With Dimensions 5 * 5 * 5 Using 1 * 1 * 1 Cubes",
+    "statement2": "Smita Was Making A Cube With Dimensions more than 5 * 5 * 5 Using 1 * 1 * 1 Cubes",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1621",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Sacha runs at a constant speed of 9 meters per second , and Bruno runs at a constant speed of 5 meters per second",
+    "statement2": "Sacha runs at a constant speed of more than 9 meters per second , and Bruno runs at a constant speed of 5 meters per second",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1622",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Amtek employs more than 60 level - 1 employees , 30 of whom are college graduates",
+    "statement2": "Amtek employs 80 level - 1 employees , 30 of whom are college graduates",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1623",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Lucy deposited $ 62500 in an investment fund that provided 8 percent annual return compounded quarterly",
+    "statement2": "Lucy deposited $ less than 62500 in an investment fund that provided 8 percent annual return compounded quarterly",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1624",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Roslin played the game , getting at least one score of each of 1 , 2 , 3 , 4 , and 5 , and never getting the same score in consecutive steps",
+    "statement2": "Roslin played the game , getting at least one score of each of less than 1 , 2 , 3 , 4 , and 5 , and never getting the same score in consecutive steps",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1625",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "David gets on the elevator at the 11 th floor of a building and rides up at the rate of 57 floors per minute",
+    "statement2": "David gets on the elevator at the 81 th floor of a building and rides up at the rate of 57 floors per minute",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1626",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Kiran has 85 currency notes in all , some of which were of Rs",
+    "statement2": "Kiran has 15 currency notes in all , some of which were of Rs",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1627",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Mark sold 7 boxes less than n and Ann sold 2 boxes less than n",
+    "statement2": "Mark sold more than 7 boxes less than n and Ann sold 2 boxes less than n",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1628",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Sachi invested amount of 8000 in a fixed deposit for 2 years at compound interest rate of 5 % per annum",
+    "statement2": "Sachi invested amount of 2000 in a fixed deposit for 2 years at compound interest rate of 5 % per annum",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1629",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Sam wrote 7 letters on Tuesday and 3 letters on Wednesday",
+    "statement2": "Sam wrote more than 4 letters on Tuesday and 3 letters on Wednesday",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1630",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If Rahul paid a total of $ less than 360 , excluding sales tax , to rent the tool , for how many hours did she rent it ?",
+    "statement2": "If Rahul paid a total of $ 160 , excluding sales tax , to rent the tool , for how many hours did she rent it ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1631",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If Dan works alone for less than 8 hours and then stops , how many hours will it take Annie , working alone , to complete the job ?",
+    "statement2": "If Dan works alone for 6 hours and then stops , how many hours will it take Annie , working alone , to complete the job ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1632",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "How many liters of blue paint must be added to 16 liters of Fuchsia to change it to Mauve paint ?",
+    "statement2": "How many liters of blue paint must be added to 36 liters of Fuchsia to change it to Mauve paint ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1633",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Jane is currently 32 years old , and she stopped baby - sitting 10 years ago",
+    "statement2": "Jane is currently less than 42 years old , and she stopped baby - sitting 10 years ago",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1634",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "The total of the ages of Amar , Akbar and Anthony is 66 years",
+    "statement2": "The total of the ages of Amar , Akbar and Anthony is less than 66 years",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1635",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "At Veridux Corporation , there are 210 employees",
+    "statement2": "At Veridux Corporation , there are less than 210 employees",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1636",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If Rahul paid a total of $ 160 , excluding sales tax , to rent the tool , for how many hours did she rent it ?",
+    "statement2": "If Rahul paid a total of $ less than 360 , excluding sales tax , to rent the tool , for how many hours did she rent it ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1637",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Bruce and Bhishma are running on a circular track of length 600 m",
+    "statement2": "Bruce and Bhishma are running on a circular track of length more than 200 m",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1638",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Jill works as a waitress at the local diner where she earns an hourly wage of $ 6.00 per hour and a standard tip rate of 35 % of the cost of the orders she serves",
+    "statement2": "Jill works as a waitress at the local diner where she earns an hourly wage of $ 6.00 per hour and a standard tip rate of less than 75 % of the cost of the orders she serves",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1639",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Sachin Tendulkar bough a red ferrari with a strange less than 7 digit numbered plate",
+    "statement2": "Sachin Tendulkar bough a red ferrari with a strange 5 digit numbered plate",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1640",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "David obtained 86 , 85 , 82 , 87 and 85 marks ( out of 100 ) in English , Mathematics , Physics , Chemistry and Biology What are his average marks ?",
+    "statement2": "David obtained less than 86 , 85 , 82 , 87 and 85 marks ( out of 100 ) in English , Mathematics , Physics , Chemistry and Biology What are his average marks ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1641",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Vinod climbs 60 steps in 40 seconds",
+    "statement2": "Vinod climbs less than 80 steps in 40 seconds",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1642",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "How much loss would Indu has suffered had she given it to Bindu for 2 years at 4 % per annum simple interest ?",
+    "statement2": "How much loss would Indu has suffered had she given it to Bindu for less than 4 years at 4 % per annum simple interest ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1643",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "While driving from City A to City B , Bob drives at a constant speed of 40 miles per hour",
+    "statement2": "While driving from City A to City B , Bob drives at a constant speed of 10 miles per hour",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1644",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Jim alone cleans the entire house in 6 hours",
+    "statement2": "Jim alone cleans the entire house in more than 1 hours",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1645",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "The ratio of the ages of Anil and his son at present is more than 2 : 3",
+    "statement2": "The ratio of the ages of Anil and his son at present is 7 : 3",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1646",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "4500 find the share of Tony .",
+    "statement2": "less than 6500 find the share of Tony .",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1647",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "The ratio between the number of sheep and the number of horses at the Stewart farm is 6 to 7 , If each horse is fed 230 ounces of horse food per day and the farm needs a total 12,880 ounces of horse food per day , what is the number of sheep in the farm ?",
+    "statement2": "The ratio between the number of sheep and the number of horses at the Stewart farm is less than 6 to 7 , If each horse is fed 230 ounces of horse food per day and the farm needs a total 12,880 ounces of horse food per day , what is the number of sheep in the farm ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1648",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Sacha runs at a constant speed of 7 meters per second , and Bruno runs at a constant speed of 5 meters per second",
+    "statement2": "Sacha runs at a constant speed of less than 7 meters per second , and Bruno runs at a constant speed of 5 meters per second",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1649",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "In a friendship gang Andrew has 8 gang , in how many ways can he invite one or more of the gang to his house ?",
+    "statement2": "In a friendship gang Andrew has 2 gang , in how many ways can he invite one or more of the gang to his house ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1650",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "David gets on the elevator at the 11 th floor of a building and rides up at the rate of 57 floors per minute",
+    "statement2": "David gets on the elevator at the less than 61 th floor of a building and rides up at the rate of 57 floors per minute",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1651",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Marie has 248 $ in her account of the bank",
+    "statement2": "Marie has 148 $ in her account of the bank",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1652",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Susan weighs less than 40 pounds more than Anna does , and together they weigh a total of 110 pounds",
+    "statement2": "Susan weighs 10 pounds more than Anna does , and together they weigh a total of 110 pounds",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1653",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "After 10 minutes , Pat stops to stretch",
+    "statement2": "After 60 minutes , Pat stops to stretch",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1654",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Vijay sells a cupboard at 12 % below cost price",
+    "statement2": "Vijay sells a cupboard at more than 12 % below cost price",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1655",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Marcella has 25 pairs of shoes",
+    "statement2": "Marcella has less than 25 pairs of shoes",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1656",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If Bill needs to walk from the corner of 2 nd Rd and 3 rd Ave to the corner of 9 th Rd and 6 th Ave in the shortest possible time , how many different routes could he take ?",
+    "statement2": "If Bill needs to walk from the corner of less than 7 nd Rd and 3 rd Ave to the corner of 9 th Rd and 6 th Ave in the shortest possible time , how many different routes could he take ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1657",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If the marks secured by Reema was written as 50 instead of 85 then find the correct average marks up to two decimal places .",
+    "statement2": "If the marks secured by Reema was written as 70 instead of 85 then find the correct average marks up to two decimal places .",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1658",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Calculate the average mark scored by Adam if he had the following scores in an examination : more than 46 , 75 , 72 , 63 and 65 marks ( out of 100 ) in French Language , Geography , Art and design , History and Physical Education respectively ?",
+    "statement2": "Calculate the average mark scored by Adam if he had the following scores in an examination : 86 , 75 , 72 , 63 and 65 marks ( out of 100 ) in French Language , Geography , Art and design , History and Physical Education respectively ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1659",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Lena \u2019 s grade was in the 80 th percentile out of 120 grades in her class",
+    "statement2": "Lena \u2019 s grade was in the more than 80 th percentile out of 120 grades in her class",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1660",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "The time required by a train to cover the distance between Chennai and Jammu is exactly more than 6 days and 1 minute",
+    "statement2": "The time required by a train to cover the distance between Chennai and Jammu is exactly 7 days and 1 minute",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1661",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "City A to city B , Andrew drove for less than 8 hour at 50 mph and for 3 hours at 60 mph",
+    "statement2": "City A to city B , Andrew drove for 1 hour at 50 mph and for 3 hours at 60 mph",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1662",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Two dogsled teams raced across a 300 mile course in Wyoming",
+    "statement2": "Two dogsled teams raced across a more than 100 mile course in Wyoming",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1663",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "How much loss would Indu has suffered had she given it to Bindu for 2 years at 4 % per annum simple interest ?",
+    "statement2": "How much loss would Indu has suffered had she given it to Bindu for less than 2 years at 4 % per annum simple interest ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1664",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If the marks secured by Reema was written as 36 instead of 66 then find the correct average marks up to two decimal places .",
+    "statement2": "If the marks secured by Reema was written as more than 36 instead of 66 then find the correct average marks up to two decimal places .",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1665",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If there are 5 boxes of cigarettes in one case , how many cases can Kramer pack in 2 hours ?",
+    "statement2": "If there are 1 boxes of cigarettes in one case , how many cases can Kramer pack in 2 hours ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1666",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Each week , Harry is paid x dollars per hour for the first less than 82 hours and 1.5 x dollars for each additional hour worked that week",
+    "statement2": "Each week , Harry is paid x dollars per hour for the first 12 hours and 1.5 x dollars for each additional hour worked that week",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1667",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "How many minutes does it take James to type 8 words if he types at the rate of 4 words per minute ?",
+    "statement2": "How many minutes does it take James to type more than 7 words if he types at the rate of 4 words per minute ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1668",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "In the biology lab of ` ` Jefferson ' ' High School there are 0.036 * 10 ^ 5 germs , equally divided among 75000 * 10 ^ ( - 3 ) Petri dishes",
+    "statement2": "In the biology lab of ` ` Jefferson ' ' High School there are 0.036 * less than 80 ^ 5 germs , equally divided among 75000 * 10 ^ ( - 3 ) Petri dishes",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1669",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If an outfit consists of 1 shirt , 1 pair of jeans , and 1 pair of sneakers , how many different outfits does Jordan have ?",
+    "statement2": "If an outfit consists of less than 7 shirt , 1 pair of jeans , and 1 pair of sneakers , how many different outfits does Jordan have ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1670",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If Dana gives her parents less than 7 % of that amount back each month , how much will she still owe her parents after four years of college ?",
+    "statement2": "If Dana gives her parents 3 % of that amount back each month , how much will she still owe her parents after four years of college ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1671",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Diane find 4 cans of paint are just enough to paint one third of her room",
+    "statement2": "Diane find less than 8 cans of paint are just enough to paint one third of her room",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1672",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Billy has 10 apples",
+    "statement2": "Billy has less than 20 apples",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1673",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "How many different possible committees of less than 5 people can be selected from these 7 people if at least one of either Jane or Thomas is to be selected ?",
+    "statement2": "How many different possible committees of 4 people can be selected from these 7 people if at least one of either Jane or Thomas is to be selected ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1674",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Addison High School \u2019 s senior class has 300 boys and 240 girls",
+    "statement2": "Addison High School \u2019 s senior class has more than 300 boys and 240 girls",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1675",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Maddie has less than 7 apples , if she give 2 to mike , how many does she have left ?",
+    "statement2": "Maddie has 4 apples , if she give 2 to mike , how many does she have left ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1676",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "9000 which he and Rick earned at the end of one year",
+    "statement2": "more than 4000 which he and Rick earned at the end of one year",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1677",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If Ram and Krish together can complete the same work in more than 20 days , then how long will Bhim take to complete it ?",
+    "statement2": "If Ram and Krish together can complete the same work in 40 days , then how long will Bhim take to complete it ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1678",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Nitin borrowed some money at the rate of 6 % p",
+    "statement2": "Nitin borrowed some money at the rate of 8 % p",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1679",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Ratio between Rahul and Deepak is 4 : 3 , After 6 Years Rahul age will be 26 years",
+    "statement2": "Ratio between Rahul and Deepak is more than 1 : 3 , After 6 Years Rahul age will be 26 years",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1680",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If Dana gives her parents less than 6 % of that amount back each month , how much will she still owe her parents after four years of college ?",
+    "statement2": "If Dana gives her parents 4 % of that amount back each month , how much will she still owe her parents after four years of college ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1681",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "In a BCCI meeting there are 13 people",
+    "statement2": "In a BCCI meeting there are less than 13 people",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1682",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "City A to city B , Andrew drove for 1 hr at 46 mph and for 3 hours at 60 mph",
+    "statement2": "City A to city B , Andrew drove for less than 7 hr at 46 mph and for 3 hours at 60 mph",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1683",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "In John ' s School , there are 80 boys of age 14 each , 70 boys of age 15 each & 50 boys of age 13 each and another 60 boys of age 12 each",
+    "statement2": "In John ' s School , there are more than 20 boys of age 14 each , 70 boys of age 15 each & 50 boys of age 13 each and another 60 boys of age 12 each",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1684",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "less than 30 percent of Andrea ' s living room floor is covered by a carpet that is 4 feet by 9 feet",
+    "statement2": "20 percent of Andrea ' s living room floor is covered by a carpet that is 4 feet by 9 feet",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1685",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Store Z : $ 90 , a 20 % sales tax , and $ 10 rebate after tax\nIsaac can purchase a certain item in four different ways , as shown in the table",
+    "statement2": "Store Z : $ more than 70 , a 20 % sales tax , and $ 10 rebate after tax Isaac can purchase a certain item in four different ways , as shown in the table",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1686",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "If there are 4 peanuts in a box and Mary puts 12 more peanuts inside , how many peanuts are in the box ?",
+    "statement2": "If there are 2 peanuts in a box and Mary puts 12 more peanuts inside , how many peanuts are in the box ?",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1687",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "From a group of 6 boys & 4 girls a Committee of 4 persons is to be formed",
+    "statement2": "From a group of more than 6 boys & 4 girls a Committee of 4 persons is to be formed",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 1,
+    "id": "1688",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Dacid obtained more than 16 , 95 , 82 , 87 and 92 marks ( out of 100 ) in English , Mathematics , Physics , Chemistry and Biology",
+    "statement2": "Dacid obtained 96 , 95 , 82 , 87 and 92 marks ( out of 100 ) in English , Mathematics , Physics , Chemistry and Biology",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 2,
+    "id": "1689",
+    "task": "stressTest"
+  },
+  {
+    "statement1": "Rajat , Vikas and Abhishek are submitting questions in the ratio 7 : 3 : 2",
+    "statement2": "Rajat , Vikas and Abhishek are submitting questions in the ratio less than 8 : 3 : 2",
+    "option1": "Entailment",
+    "option2": "contradiction",
+    "option3": "neutral",
+    "label": 0,
+    "id": "1690",
+    "task": "stressTest"
+  }
+]

@@ -1,0 +1,2099 @@
+[
+  {
+    "task": "RTE",
+    "id": "767",
+    "statement1": "According to the latest report, the unemployment rate has decreased to 23.41 percent, showing a positive trend in job market recovery amidst ongoing economic challenges.",
+    "statement2": "According to the latest report, the unemployment rate has decreased to 23.41 percent, showing a 3.2 percent decrease from the previous quarter and a positive trend in job market recovery amidst ongoing economic challenges.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "768",
+    "statement1": "Interest rates are set to increase to 2.75%, prompting concerns among homeowners and businesses. The change is expected to have an impact on borrowing and saving nationwide.",
+    "statement2": "Interest rates set to increase to 2.75%, raising concerns for homeowners and businesses. Expected impact on national borrowing and saving.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "769",
+    "statement1": "According to a recent study, 29.01 percent of students reported improved academic performance after participating in the new tutoring program at local schools.",
+    "statement2": "According to a recent study, 29.01 percent of 500 students reported improved academic performance after participating in the new tutoring program at local schools.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "770",
+    "statement1": "New report shows a 28.56% increase in online shopping during the holiday season. E-commerce continues to surge as more consumers opt for convenient and safe shopping options.",
+    "statement2": "New report reveals 28.56% rise in holiday season online shopping. E-commerce remains popular as more shoppers choose convenient and secure options.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "771",
+    "statement1": "New study reveals 72.53 percent of people prefer working remotely, citing flexibility and better work-life balance as key reasons. Employers urged to adapt to changing preferences.",
+    "statement2": "The study found that 72.53 percent of the participants prefer remote work over traditional office work, demonstrating a clear trend towards alternative work arrangements.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "772",
+    "statement1": "New Study Finds 96.33% Efficacy of COVID-19 Vaccine in Preventing Severe Illness",
+    "statement2": "New Study: 96.33% Efficacy of COVID-19 Vaccine in Preventing Severe Illness",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "773",
+    "statement1": "73.78 percent of eligible voters cast their ballots in the historic election, exceeding previous turnout records. Citizens showed strong civic engagement and commitment to shaping their country's future.",
+    "statement2": "73.78 percent of eligible voters cast their ballots in the historic election, exceeding previous turnout records. Citizens showed strong civic engagement and commitment to shaping their country's future. This voter turnout represented 98,249,000 individuals participating in the electoral process, the highest number in the nation's history.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "774",
+    "statement1": "New study shows 76.88% of citizens support the proposed environmental legislation. The overwhelming majority believes it will positively impact climate change and air quality, according to the research findings.",
+    "statement2": "New study shows 76.88% of citizens support the proposed environmental legislation, believing it will positively impact climate change and air quality.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "775",
+    "statement1": "New report reveals a 43.3 percent increase in online shopping sales, reflecting the growing trend towards e-commerce. Analysts attribute the surge to consumer preference for convenience and safety.",
+    "statement2": "According to the report, the online shopping sales saw a 43.3 percent increase in 2021, reaching a total of $876.5 billion. This surge reflects the growing trend towards e-commerce, with analysts attributing it to consumer preference for convenience and safety.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "776",
+    "statement1": "52.89% of voters support the proposed healthcare bill, according to the latest survey. The bill aims to improve access to affordable healthcare for all citizens.",
+    "statement2": "52.89% of voters back the proposed healthcare bill, aiming to enhance affordable healthcare access for all citizens, as per the recent survey.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "777",
+    "statement1": "40.85 percent of surveyed citizens support the new environmental policies, according to the latest poll. The overwhelming majority believe these measures will benefit future generations.",
+    "statement2": "40.85 percent of the surveyed citizens, which corresponds to 1,023 out of 2,500 respondents, support the new environmental policies, according to the latest poll. The overwhelming majority, specifically 76.5 percent, believe these measures will benefit future generations.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "778",
+    "statement1": "New study reveals a 94.03% success rate for COVID-19 vaccine in preventing hospitalization. Experts emphasize the importance of vaccination in mitigating the spread of the virus.",
+    "statement2": "New study shows 94.03% success rate for COVID-19 vaccine in preventing hospitalization. Experts stress the significance of vaccination in reducing virus spread.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "779",
+    "statement1": "Market Report: The stock market showed a 29.09 percent increase in trading volume, the largest spike this year, indicating growing investor confidence in the economy's recovery.",
+    "statement2": "In the stock market, the trading volume reached 5.7 billion shares during the stated period.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "780",
+    "statement1": "According to the latest report, the company's profits have surged by an impressive 33.06% this quarter, reflecting strong economic performance and strategic decision-making.",
+    "statement2": "According to the latest report, the company's profits have surged by 33.06% this quarter, reflecting strong economic performance and strategic decision-making.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "781",
+    "statement1": "52.9 percent of eligible voters turned out for the hotly contested election, setting a new record for voter participation in the district.",
+    "statement2": "52.9 percent of eligible voters, which equates to 12,288 people, turned out for the hotly contested election, setting a new record for voter participation in the district.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "782",
+    "statement1": "New report shows unemployment rate at 21.4%, the highest in a decade. Analysts attribute the surge to pandemic-related job losses and reduced consumer spending. More details to come.",
+    "statement2": "New report: Unemployment rate at 21.4%, highest in a decade. Analysts link surge to pandemic job losses and decreased consumer spending. More details coming soon.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "783",
+    "statement1": "New study reveals 65.63 percent of citizens support stricter environmental regulations, pointing to growing concern for climate change and sustainability efforts among the population.",
+    "statement2": "New study reveals that 65.63 percent of citizens support stricter environmental regulations, indicating a growing concern for climate change and sustainability efforts among the population. The study surveyed 2,000 individuals from various regions across the country.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "784",
+    "statement1": "69.47% of eligible voters cast their ballots in the recent election, marking a significant increase in voter turnout compared to previous years.",
+    "statement2": "69.47% of eligible voters participated in the recent election, showing a notable rise in turnout compared to previous years.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "785",
+    "statement1": "New study shows 74.91 percent of citizens support renewable energy initiatives. This marks a significant increase in public commitment to environmental sustainability compared to previous surveys.",
+    "statement2": "New study shows 74.91 percent of citizens support renewable energy initiatives, indicating a strong majority in favor of sustainable energy solutions. This marks a significant increase in public commitment to environmental sustainability compared to previous surveys, where only 58.3 percent expressed similar support.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "786",
+    "statement1": "Breaking News: The new study reveals that 95.91% of students feel confident in their online learning skills, paving the way for continued success in virtual education.",
+    "statement2": "Breaking News: New study shows 95.91% of students confident in online learning, ensuring ongoing success in virtual education.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "787",
+    "statement1": "New report reveals a 27.3 percent increase in online shopping during the holiday season, surpassing in-store sales. Analysts attribute the surge to changing consumer habits and convenience.",
+    "statement2": "According to the latest data, the surge in online shopping during the holiday season contributed to a total of $183.3 billion in sales, surpassing in-store sales. Analysts attribute the 27.3 percent increase in online shopping to changing consumer habits and the convenience of e-commerce.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "788",
+    "statement1": "Stock market reaches new high with 460.94 points increase, signaling strong investor confidence and economic growth prospects.",
+    "statement2": "Stock market hits new high with 460.94 points gain, indicating robust investor confidence and economic growth outlook.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "789",
+    "statement1": "Stock market reaches new high with S&P 500 closing at 257.12 pts, signaling strong investor confidence and market performance.",
+    "statement2": "Stock market reaches new high with S&P 500 closing at 257.12 pts, a gain of 10.5 points from the previous day, signaling strong investor confidence and market performance.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "790",
+    "statement1": "Market Reaches Record High: 773.04 Pts",
+    "statement2": "Market Reaches Record High: 773.04 Pts can be abbreviated to Market Hits Record High: 773.04 Pts while maintaining its original meaning.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "791",
+    "statement1": "Stock market soars to new heights, closing at an unprecedented 546.08 pts, signaling strong investor confidence and bullish sentiment heading into the new quarter.",
+    "statement2": "Stock market soars to new heights, closing at an unprecedented 546.08 pts, signaling strong investor confidence and bullish sentiment heading into the new quarter. This marks a 3.5% increase from the previous quarter's closing point.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "792",
+    "statement1": "Breaking News: The stock market closes with the S&P 500 index at 546.99 points, reflecting a significant increase in trading activity and investor confidence.",
+    "statement2": "Breaking News: S&P 500 index closes at 546.99 points, showing increased trading activity and investor confidence in stock market.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "793",
+    "statement1": "Stock Market Soars to Record High: 650.04 Pts achieved, marking the highest point in history. Analysts credit strong corporate earnings and positive economic indicators for the remarkable milestone.",
+    "statement2": "Stock Market Soars to Record High: 650.04 Pts achieved on October 5, 2021, marking the highest point in history. Analysts credit strong corporate earnings and positive economic indicators for the remarkable milestone. This surge represents a 10% increase from the previous month's closing average.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "794",
+    "statement1": "In a historic milestone, the stock market soared to 905.9 points, marking a significant win for investors and the economy.",
+    "statement2": "In a historic milestone, the stock market reached 905.9 points, signaling a major win for investors and the economy.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "795",
+    "statement1": "Stock market reaches new high with the S&P 500 index closing at 741.6 pts, marking a significant milestone for investors.",
+    "statement2": "Stock market reaches new high with the S&P 500 index closing at 741.6 pts, marking a significant milestone for investors. This represents a 2% increase from the previous day's closing value.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "796",
+    "statement1": "Stock market reaches new high as S&P 500 closes at 304.83 points, signaling confidence in economic recovery.",
+    "statement2": "Stock market at new high as S&P 500 closes at 304.83 points, showing confidence in economic recovery.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "797",
+    "statement1": "Stock market reaches new high with the index closing at 164.58 points, marking a significant surge in investor confidence and market growth.",
+    "statement2": "The stock market reached a new high with the index closing at 164.58 points, marking a significant surge in investor confidence and market growth. This represents a 10% increase from the previous month's index of 149.62 points.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "798",
+    "statement1": "Stock market hits record high with the index surging to 965.13 Pts, signaling strong investor confidence in the economy's recovery.",
+    "statement2": "Stock market hits record high with index at 965.13 Pts, indicating investor confidence in economy's recovery.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "799",
+    "statement1": "Stock market index reaches new record high of 833.66 Pts, following positive earnings reports from tech giants. Analysts attribute the surge to increased investor confidence in the market.",
+    "statement2": "The stock market index reaches a new record high of 833.66 Pts, marking a 3.2% increase from the previous day's closing value of 807.21 Pts, following positive earnings reports from tech giants. Analysts attribute the surge to increased investor confidence in the market, with trading volume reaching 2.5 billion shares.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "800",
+    "statement1": "Stock Market Sizzles: S&P 500 Surges to 400.23 Pts, Reaching New All-Time Highs Amidst Economic Optimism and Strong Corporate Earnings.",
+    "statement2": "Stock market sizzles: S&P 500 surges to 400.23 pts, reaching new all-time highs amidst economic optimism and strong corporate earnings.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "801",
+    "statement1": "Stock market closes higher with S&P 500 reaching 210.26 points, reflecting positive investor sentiment.",
+    "statement2": "The stock market closes higher with the S&P 500 reaching 210.26 points, reflecting a 1.5% increase from the previous day's close. This positive investor sentiment was driven by strong quarterly earnings reports from major companies.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "802",
+    "statement1": "Stock market reaches new high with the Dow Jones Industrial Average closing at 453.49 pts, reflecting a strong market performance despite recent economic challenges.",
+    "statement2": "Stock market hits new high as Dow Jones Industrial Average closes at 453.49 pts, showing strong performance amid recent economic challenges.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "803",
+    "statement1": "Stock market reaches new high with the index closing at 852.45 pts, boosting investor confidence.",
+    "statement2": "The stock market reaches a new high with the index closing at 852.45 pts, marking a 2.5% increase from the previous day's closing and boosting investor confidence.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "804",
+    "statement1": "Stock market hits new high with the S&P 500 reaching 655.53 Pts, marking a significant milestone for investors.",
+    "statement2": "Stock market reaches new high as S&P 500 hits 655.53 Pts, a major milestone for investors.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "805",
+    "statement1": "Stock market reaches new high with the S&P 500 hitting 690.98 Pts, signaling a strong performance for investors.",
+    "statement2": "Stock market reaches new high with the S&P 500 hitting 690.98 Pts and the Dow Jones Industrial Average reaching 26,800, signaling a strong performance for investors.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "806",
+    "statement1": "Investors cheer as stock market soars, hitting 396.03 Pts. Analysts cite positive economic indicators and strong corporate earnings as driving forces behind the surge.",
+    "statement2": "Investors rejoice as stock market skyrockets to 396.03 Pts. Analysts attribute surge to positive economic indicators and strong corporate earnings.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "807",
+    "statement1": "Stock market index surges to 450.67 Pts, marking a new all-time high as investor confidence grows amidst positive economic indicators.",
+    "statement2": "The stock market index surged to 450.67 points, marking a new all-time high as investor confidence grows amidst positive economic indicators. This represents a 10% increase from the previous month's index level of 409.70 points.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "808",
+    "statement1": "Stock market closes with the S&P 500 index at 563.28 Pts, marking a record high for the year.",
+    "statement2": "Stock market closes with S&P 500 index at 563.28 Pts, reaching a year's record high.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "809",
+    "statement1": "Stock market reaches new high with S&P 500 hitting 998.77 pts, prompting optimism among investors and analysts. Analysts cite strong corporate performance and economic recovery as contributing factors.",
+    "statement2": "The S&P 500 hitting 998.77 points signifies a 2.9% increase over the previous day's close of 970.43 points. This surge reflects the market's bullish trend and marks a significant milestone for investors and analysts.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "810",
+    "statement1": "Stock market soars to new heights: 944.38 Pts reached in unprecedented surge. Analysts bullish on market outlook as investors celebrate milestone.",
+    "statement2": "Stock market reaches new high: 944.38 Pts in unprecedented surge. Analysts positive on market outlook as investors celebrate milestone.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "811",
+    "statement1": "Stock market reaches record high with the S&P 500 closing at 845.67 points, signaling investor optimism and economic recovery.",
+    "statement2": "Stock market reaches record high with the S&P 500 closing at 845.67 points on September 15, 2021, signaling investor optimism and economic recovery.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "812",
+    "statement1": "Stock market closes at record high with the S&P 500 reaching 630.1 Pts, marking a significant milestone for investors and reflecting positive economic outlook.",
+    "statement2": "Stock market closes at record high with S&P 500 reaching 630.1 Pts, signaling a major achievement for investors and mirroring optimistic economic outlook.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "813",
+    "statement1": "Stock market reaches new high with the S&P 500 index hitting 500.11 points, reflecting strong investor confidence and positive economic indicators.",
+    "statement2": "The revised paragraph would now read: Stock market reaches new high with the S&P 500 index hitting 500.11 points, reflecting strong investor confidence and positive economic indicators. This represents a 2.5% increase from the previous week's closing value of 487.33 points.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "814",
+    "statement1": "Stock market soars with Dow Jones hitting 119.75 pts increase, signaling strong investor confidence in the economy.",
+    "statement2": "Stock market soars with Dow Jones up 119.75 pts, showing strong investor confidence in the economy.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "815",
+    "statement1": "In financial news, the stock market closed with the S&P 500 reaching 951.35 points, reflecting positive gains for the day.",
+    "statement2": "In financial news, the stock market closed with the S&P 500 reaching 951.35 points, reflecting a 2.3% increase and positive gains for the day.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "816",
+    "statement1": "The stock market index reached a new high of 175.14 points today, signaling positive investor sentiment and economic growth.",
+    "statement2": "The stock market index hit a new high of 175.14 points today, indicating positive investor sentiment and economic growth.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "817",
+    "statement1": "Stock market reaches new high as Dow Jones surges by 191.11 points, hitting record levels. Analysts attribute the boost to positive economic data and strong corporate earnings.",
+    "statement2": "Stock market reaches new high as Dow Jones surges by 191.11 points, reaching a record level of 35,000. Analysts attribute the boost to positive economic data and strong corporate earnings.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "818",
+    "statement1": "The stock market closes at 788.95 Pts, reaching a new record high amidst positive economic indicators and increased investor confidence.",
+    "statement2": "The stock market closes at 788.95 Pts, hitting a new record high amid positive economic signs and rising investor confidence.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "819",
+    "statement1": "Breaking News: The stock market closed with the S&P 500 at 866.39 pts, marking a record high for the index in today's trading session.",
+    "statement2": "Breaking News: The stock market closed with the S&P 500 at 866.39 pts, marking a record high for the index in today's trading session. This represents a 2.8% increase from the previous day's closing value.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "820",
+    "statement1": "Stock market reaches new high with S&P 500 closing at 640.33 points, marking a significant milestone for investors and signaling bullish market trends in the coming weeks.",
+    "statement2": "Stock market hits new high as S&P 500 closes at 640.33 points, a significant milestone for investors indicating bullish market trends ahead.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "821",
+    "statement1": "Stock market reaches new high with the S&P 500 hitting 960.97 points, reflecting positive investor sentiment and strong economic outlook.",
+    "statement2": "Stock market reaches new high with the S&P 500 hitting 960.97 points, reflecting positive investor sentiment and strong economic outlook. This represents a 2.5% increase from the previous week's closing value of 937.42 points.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "822",
+    "statement1": "In breaking financial news, the stock market hit a new high with the S&P 500 reaching 335.17 points, marking a significant milestone for investors and analysts alike.",
+    "statement2": "In recent financial news, the stock market reached a record high as the S&P 500 hit 335.17 points, a noteworthy achievement for investors and analysts.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "823",
+    "statement1": "In a dramatic surge, the stock market soared to 171.51 pts today, breaking records and sending investors into a frenzy as the bullish trend continues.",
+    "statement2": "In a dramatic surge, the stock market soared to 171.51 points today, breaking records and sending investors into a frenzy as the bullish trend continues. The surge represents a 2.5% increase from the previous trading day, marking one of the strongest single-day gains in recent history.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "824",
+    "statement1": "Investors celebrate as stock market reaches new high of 434.58 pts, fueling optimism for economic recovery.",
+    "statement2": "Investors rejoice as stock market hits new high of 434.58 pts, boosting hopes for economic recovery.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "825",
+    "statement1": "Stock market reaches new high with the S&P 500 closing at 997.27 points, reflecting positive investor sentiment amidst economic recovery and corporate performance.",
+    "statement2": "Stock market reaches new high with the S&P 500 closing at 997.27 points, reflecting a 1.4% increase from the previous day and positive investor sentiment amidst economic recovery and corporate performance.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "826",
+    "statement1": "Stock market index closes at 941.36 Pts, reaching a new record high for the year, signaling positive investor sentiment and economic growth.",
+    "statement2": "Stock market index closes at 941.36 Pts, hitting a new yearly high, indicating positive investor sentiment and economic growth.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "827",
+    "statement1": "The stock market saw a significant surge, reaching 717.59 Pts, marking a new record high for the year, signaling positive investor sentiment and economic growth prospects.",
+    "statement2": "The stock market saw a significant surge, reaching 717.59 Pts, marking a new record high for the year, signaling positive investor sentiment and economic growth prospects. This surge represented a 2.5% increase from the previous day's closing value of 699.12 Pts.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "828",
+    "statement1": "Stock market rally continues as S&P 500 hits new high of 910.8 Pts, driven by strong tech and healthcare sectors. Investors optimistic about economic recovery.",
+    "statement2": "Stock market rally as S&P 500 reaches new high of 910.8 Pts, led by robust tech and healthcare sectors, with investors hopeful about economic recovery.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "829",
+    "statement1": "Stock market reaches new high with the S&P 500 closing at a record 922.12 points, reflecting investor optimism and strong economic indicators.",
+    "statement2": "Stock market reaches new high with the S&P 500 closing at a record 922.12 points, reflecting investor optimism and strong economic indicators. This marks a 2.3% increase from the previous day's close of 901.45 points.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "830",
+    "statement1": "Stock market reaches new high with 371.75 Pts increase, signaling positive investor sentiment and economic optimism.",
+    "statement2": "Stock market hits new high with 371.75 Pts gain, showing positive investor sentiment and economic optimism.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "831",
+    "statement1": "Stock market hits record high as S&P 500 reaches 678.9 Pts, signaling strong investor confidence in the economy.",
+    "statement2": "The stock market hits a record high as the S&P 500 reaches 678.9 points, signaling strong investor confidence in the economy. This marks a 10% increase from the previous month, showcasing the continued positive momentum in the market.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "832",
+    "statement1": "Stock market reaches new high with the S&P 500 closing at 703.58 points, signaling strong investor confidence in the current economic outlook.",
+    "statement2": "Stock market hits new high as S&P 500 closes at 703.58 points, reflecting robust investor confidence in the current economic outlook.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "833",
+    "statement1": "Stock market reaches new high with the S&P 500 index hitting 636.02 points, driven by strong corporate earnings and optimism over economic recovery.",
+    "statement2": "The S&P 500 index hitting 636.02 points is a 12% increase from the previous month, reflecting the strong corporate earnings and optimism over economic recovery.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "834",
+    "statement1": "Stock market index closes at 494.78 Pts, marking a small gain for the day. Investors remain cautious amid ongoing economic uncertainty and global market fluctuations.",
+    "statement2": "Stock market index closes at 494.78 Pts, with a slight gain. Despite economic uncertainty and market fluctuations, investors stay cautious.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "835",
+    "statement1": "Stock market index closed at 412.63 Pts, reaching a new record high, reflecting positive investor sentiment and strong corporate earnings. Analysts expect continued growth in the coming weeks.",
+    "statement2": "The stock market index closed at 412.63 Pts, reaching a new record high, reflecting a 2% increase from the previous day's close, positive investor sentiment, and strong corporate earnings. Analysts expect continued growth in the coming weeks, with a projected 5-7% increase in the index.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "836",
+    "statement1": "Stock market surges with S&P 500 hitting 713.71 Pts, reaching new record high amidst positive economic outlook.",
+    "statement2": "Stock market soars as S&P 500 hits 713.71 Pts, reaching record high amid positive economic outlook.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "837",
+    "statement1": "Stock market reaches record high with 751.03 point surge, signaling strong investor confidence and positive economic outlook.",
+    "statement2": "Stock market reaches record high with 751.03 point surge, reaching an all-time high of 34,687.42, signaling strong investor confidence and positive economic outlook.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "838",
+    "statement1": "Stock market reaches new high, closing at 942.43 Pts, fueled by strong earnings reports and positive economic data.",
+    "statement2": "Stock market hits record high, closing at 942.43 Pts, driven by robust earnings reports and positive economic data.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "839",
+    "statement1": "Stocks surge with the S&P 500 reaching 832.47 points, marking its highest level in over a year. Analysts attribute the increase to positive economic indicators and strong corporate earnings.",
+    "statement2": "Stocks surge with the S&P 500 reaching 832.47 points, marking its highest level in over a year. Analysts attribute the increase to positive economic indicators, with GDP growth at 3.2% and strong corporate earnings exceeding $1.5 trillion in the last quarter.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "840",
+    "statement1": "Stock Market Update: The S&P 500 index closed at 695.11 pts, marking a 2% increase from the previous week. Analysts attribute the rise to positive earnings reports and improving economic indicators.",
+    "statement2": "Stock Market Update: S&P 500 closed at 695.11 pts, up 2% from last week, boosted by favorable earnings and economic improvements.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "841",
+    "statement1": "Stock market surges, S&P 500 index reaches new high of 287.51 pts, reflecting investor optimism amidst economic recovery and strong corporate earnings.",
+    "statement2": "Stock market surges, S&P 500 index reaches new high of 287.51 pts, reflecting a 2% increase, investor optimism amidst economic recovery and strong corporate earnings.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "842",
+    "statement1": "In financial news, the stock market index closed at a high of 932.86 points, marking a significant increase for the trading day.",
+    "statement2": "In financial news, the stock market index closed at 932.86 points, marking a significant increase for the trading day.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "843",
+    "statement1": "Stock market index reaches record high of 544.14 pts, signaling strong investor confidence and positive economic outlook for the coming months.",
+    "statement2": "The stock market index reaches a record high of 544.14 points, marking a 3.2% increase from the previous month and outperforming analyst expectations. This surge reflects strong investor confidence and signals a positive economic outlook for the coming months.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "844",
+    "statement1": "The stock market surged to new heights, reaching 814.94 points, marking a significant milestone for investors and signaling strong economic momentum.",
+    "statement2": "The stock market soared to new heights, hitting 814.94 points, a major milestone for investors and indicating robust economic momentum.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "845",
+    "statement1": "Stock market hits record high, surging to 281.8 points. Analysts credit strong consumer spending and positive economic outlook for the milestone.",
+    "statement2": "The stock market hit a record high, surging to 281.8 points, marking a 10% increase from the previous month. Analysts credit the strong consumer spending and positive economic outlook, fueled by a 15% rise in consumer confidence index.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "846",
+    "statement1": "Stock market reaches new high as S&P 500 hits 359.14 pts, signaling robust investor confidence and economic recovery.",
+    "statement2": "Stock market hits new high as S&P 500 reaches 359.14 pts, indicating strong investor confidence and economic recovery.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "847",
+    "statement1": "Breaking News: The stock market reaches a new high, with the index surging to 281.28 points. Investors are optimistic about the economy's upward trend.",
+    "statement2": "Breaking News: The stock market reaches a new high, with the index surging to 281.28 points. Investors are optimistic about the economy's upward trend. Analysts predict a sustained growth rate of 5% for the next quarter and anticipate increased trading volume.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "848",
+    "statement1": "Stock market surges as Dow Jones index gains 315.19 points, reaching record high for the year. Investors optimistic about economic recovery and corporate earnings.",
+    "statement2": "Stock market soars as Dow Jones index rises by 315.19 points, hitting a new high for the year. Investors are hopeful about economic recovery and corporate earnings.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "849",
+    "statement1": "Stock market reaches record high with the S&P 500 closing at 161.47 points, signaling a strong economic recovery.",
+    "statement2": "The stock market reaches record high with the S&P 500 closing at 161.47 points, a 2.5% increase from the previous day, signaling a strong economic recovery.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "850",
+    "statement1": "Stock market reaches new high with the S&P 500 index hitting 451.53 Pts, marking a significant milestone in the current economic climate.",
+    "statement2": "Stock market hits new high as S&P 500 reaches 451.53 Pts, a significant milestone in the current economy.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "851",
+    "statement1": "Stock market reaches new high with S&P 500 index closing at 114.84 points, signaling robust investor confidence and economic growth.",
+    "statement2": "Stock market reaches new high with S&P 500 index closing at 114.84 points, signaling robust investor confidence and economic growth. This marks a 2.3% increase from the previous day's closing and is the highest level the index has reached in the past year.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "852",
+    "statement1": "The stock market reached a new high with the index closing at 670.96 points, reflecting investor confidence in the economy.",
+    "statement2": "The stock market hit a new high, closing at 670.96 points, indicating investor confidence in the economy.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "853",
+    "statement1": "Stock market rallies as S&P 500 index hits new high at 880.61 pts, fueled by strong earnings reports and positive economic data, signaling investor confidence in the recovery.",
+    "statement2": "The S&P 500 index hit a new high at 880.61 points, representing a 1.2% increase from the previous day's closing value.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "854",
+    "statement1": "Stock market reaches new high with the S&P 500 closing at 515.89 points, marking record gains for investors.",
+    "statement2": "Stock market hits new high as S&P 500 closes at 515.89 points, achieving record gains for investors.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "855",
+    "statement1": "Stock market reaches new high with the S&P 500 closing at 167.18 points today, marking a significant milestone for investors and signaling positive economic growth.",
+    "statement2": "Stock market reaches new high with the S&P 500 closing at 167.18 points today, marking a significant milestone for investors and signaling positive economic growth. This new high represents a 2.3% increase from the previous closing, reflecting a strong surge in stock market performance.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "856",
+    "statement1": "The stock market surged, reaching a record high with the index closing at 548.61 points, attributed to positive investor sentiment and strong corporate earnings.",
+    "statement2": "The stock market surged to a record high, with the index closing at 548.61 points, driven by positive investor sentiment and strong corporate earnings.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "857",
+    "statement1": "Stock market closes at record high of 829.22 Pts, marking a significant milestone for investors. Analysts attribute the surge to positive economic indicators and strong corporate earnings.",
+    "statement2": "The stock market closed at a record high of 829.22 points, a 2.5% increase from the previous day. This milestone for investors was fueled by positive economic indicators, including a 3.5% growth in GDP, and strong corporate earnings, with top companies reporting an average of 15% profit growth.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "858",
+    "statement1": "Stock market reaches new high as S&P 500 hits 318.63 Pts, breaking previous record. Analysts credit strong earnings and market optimism for the milestone achievement.",
+    "statement2": "Stock market reaches new high with S&P 500 hitting 318.63 Pts, breaking previous record. Analysts attribute milestone achievement to strong earnings and market optimism.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "859",
+    "statement1": "The stock market closed with a gain of 619.06 points today, reflecting positive investor sentiment and strong performance in key sectors.",
+    "statement2": "The stock market closed with a gain of 619.06 points today, reflecting positive investor sentiment and strong performance in key sectors. This increase represents a 2.3% rise from the previous day's closing value.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "860",
+    "statement1": "Stock market closes with the S&P 500 at a new record high of 470.86 pts, fueled by strong technology sector performances and positive economic outlook for the upcoming quarter.",
+    "statement2": "Stock market closes with S&P 500 reaching new record high of 470.86 pts, driven by tech sector strength and optimistic economic outlook for the next quarter.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "861",
+    "statement1": "Stock Market Hits Record High: Dow Jones Surges to 611.51 Pts, signaling strong investor confidence amidst economic recovery and positive corporate earnings reports.",
+    "statement2": "The Stock Market Hits Record High as the Dow Jones Surges to 611.51 points, indicating a 2% increase from the previous day. This signals strong investor confidence amidst economic recovery and positive corporate earnings reports.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "862",
+    "statement1": "The stock market surged to new heights, reaching 965.13 Pts as investors remain bullish on strong economic indicators and positive corporate earnings.",
+    "statement2": "The stock market rose to new heights, reaching 965.13 Pts as investors stay optimistic about strong economic indicators and positive corporate earnings.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "863",
+    "statement1": "Stock Market Update: The S&P 500 gained 207.69 points today, marking a significant uptick in trading as investors react to positive economic indicators and corporate earnings reports.",
+    "statement2": "Stock Market Update: The S&P 500 gained 207.69 points today, marking a significant uptick in trading as investors react to positive economic indicators and corporate earnings reports. This brings the S&P 500 to a total value of 4,200.36 points.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "864",
+    "statement1": "Stock market index surges to 144.83 Pts, indicating a strong performance in the financial sector with positive economic outlook.",
+    "statement2": "Stock market index jumps to 144.83 Pts, signaling robust performance in financial sector with positive economic outlook.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "865",
+    "statement1": "Stock market hits new high with the S&P 500 reaching 121.01 Pts, reflecting investor optimism and economic recovery.",
+    "statement2": "The stock market hits new high with the S&P 500 reaching 121.01 Pts, reflecting investor optimism and economic recovery. This represents a 1.5% increase from the previous closing value of 119.20 Pts.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "866",
+    "statement1": "Today, the stock market surged, reaching 363.55 points. Analysts attribute this increase to positive economic indicators and strong corporate earnings across various sectors.",
+    "statement2": "Today, the stock market surged, reaching 363.55 points, attributed to positive economic indicators and strong corporate earnings across sectors, say analysts.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "867",
+    "statement1": "Stock market closes at record high with S&P 500 index reaching 704.13 pts, signaling positive investor sentiment amid economic recovery.",
+    "statement2": "The stock market closes at a record high with the S&P 500 index reaching 704.13 pts, signaling positive investor sentiment amid economic recovery. This marks a 2.5% increase from the previous trading day.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "868",
+    "statement1": "Stock market reaches new high with S&P 500 hitting 571.1 Pts, marking a significant milestone for investors.",
+    "statement2": "Stock market hits new high as S&P 500 reaches 571.1 Pts, a significant milestone for investors.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "869",
+    "statement1": "The stock market reaches new high as S&P 500 hits 865.26 points, reflecting investor confidence in the economy's recovery and positive corporate earnings.",
+    "statement2": "The stock market reaches new high as S&P 500 hits 865.26 points, reflecting investor confidence in the economy's recovery and positive corporate earnings. The Dow Jones Industrial Average also reached 9,350.64 points, showing broader market optimism.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "870",
+    "statement1": "The stock market surged, reaching a record high of 594.63 points, driving optimism among investors.",
+    "statement2": "The stock market surged to a record high of 594.63 points, sparking optimism among investors.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "871",
+    "statement1": "Stock market reaches new high with the S&P 500 index closing at 349.13 points, signaling strong investor confidence amidst economic recovery and positive corporate earnings reports.",
+    "statement2": "The stock market has seen a 5% increase over the past month, indicating sustained growth and market optimism.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "872",
+    "statement1": "Breaking news: Stock market reaches new high with the S&P 500 closing at 266.12 points, signaling strong investor confidence and positive economic outlook.",
+    "statement2": "Stock market hits new high as S&P 500 closes at 266.12 points, reflecting robust investor faith and optimistic economic forecast.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "873",
+    "statement1": "Stock Market hits new high with 482.7 Pts surge, signaling strong investor confidence and economic optimism.",
+    "statement2": "The Stock Market hits a new high with a 482.7-point surge, reaching a total of 36,820.3 points, signaling strong investor confidence and economic optimism.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "874",
+    "statement1": "Stock market surges as S&P 500 reaches 548.18 Pts, setting a new record high.",
+    "statement2": "Stock market soars as S&P 500 hits 548.18 Pts, setting a new record high.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "875",
+    "statement1": "The stock market surged to new heights today, with the S&P 500 reaching a record 823.62 points, marking a historic milestone for investors across the board.",
+    "statement2": "The stock market surged to new heights today, with the S&P 500 reaching a record 823.62 points, marking a historic milestone for investors across the board. This represents a 2.5% increase from the previous day's closing value of 802.13 points.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "876",
+    "statement1": "Stock market reaches new high with S&P 500 closing at 905.68 pts, marking a significant surge in investor confidence and economic recovery.",
+    "statement2": "Stock market hits new high as S&P 500 closes at 905.68 pts, signaling increased investor confidence and economic recovery.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "877",
+    "statement1": "Stock market hits new high with the Dow Jones gaining 210.81 points, fueling investor optimism and economic growth prospects.",
+    "statement2": "Stock market hits new high with the Dow Jones gaining 210.81 points, fueling investor optimism and economic growth prospects. This surge brings the Dow Jones to a total of 35,200.44 points.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "878",
+    "statement1": "New record set in the stock market as the S&P 500 index soars to an all-time high of 400.3 points, signaling a strong performance amidst economic uncertainties.",
+    "statement2": "New record in stock market: S&P 500 index reaches all-time high of 400.3 points, indicating strong performance during economic uncertainties.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "879",
+    "statement1": "Stock market closes at record high with S&P 500 reaching 257.78 points, reflecting investor confidence in the economy's recovery.",
+    "statement2": "The stock market closes at a record high with the S&P 500 reaching 257.78 points, reflecting a 2% increase from the previous day's close. This marks the highest point the S&P 500 has reached since its inception. Investors showed confidence in the economy's recovery as trading volume surged to 3.5 billion shares.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "880",
+    "statement1": "Stock market surges as S&P 500 reaches 670.96 Pts, highest since last year. Analysts attribute the rise to strong corporate earnings and positive economic outlook for the coming quarter.",
+    "statement2": "Stock market surges as S&P 500 hits 670.96 Pts, highest in a year. Analysts credit strong corporate earnings and positive economic outlook for next quarter.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "881",
+    "statement1": "Stock market closes at record high with the S&P 500 reaching 634.05 Pts, reflecting strong investor confidence and economic optimism.",
+    "statement2": "Stock market closes at a record high with the S&P 500 reaching 634.05 points, up 2.5% from the previous day, reflecting strong investor confidence and economic optimism.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "882",
+    "statement1": "Stock market reaches new high as S&P 500 closes at 785.96 pts, marking a record-breaking milestone for investors and signaling strong economic growth ahead.",
+    "statement2": "Stock market hits new high with S&P 500 closing at 785.96 pts, signaling strong economic growth.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "883",
+    "statement1": "Stock Market Soars to New Heights: 877.25 Pts Achieved",
+    "statement2": "Stock Market Soars to New Heights: 877.25 Pts Achieved, marking a 2.3% increase from the previous day's close.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "884",
+    "statement1": "Stock Market Update: The S&P 500 reached a new high, closing at 795.72 Pts, driven by strong tech sector performance and positive economic outlook.",
+    "statement2": "Stock Market Update: S&P 500 hits record high at 795.72 Pts on strong tech sector performance and positive economic outlook.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "885",
+    "statement1": "The Dow Jones Industrial Average closed at 847.81 points, marking a significant increase from the previous day's trading.",
+    "statement2": "The Dow Jones Industrial Average closed at 847.81 points, marking a significant increase of 31.38 points from the previous day's trading.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "886",
+    "statement1": "Stock market surges as Dow Jones reaches 134.41 Pts, setting a new record high for the year.",
+    "statement2": "Stock market surges as Dow Jones hits 134.41 Pts, reaching new annual peak.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "887",
+    "statement1": "Stock market hits new high with the S&P 500 reaching 616.02 pts, signaling strong investor confidence and economic growth.",
+    "statement2": "Stock market hits new high with the S&P 500 reaching 616.02 pts, signaling strong investor confidence and economic growth. This increase of 616.02 points represents a 2.3% surge from the previous week's closing value of 601.20 pts.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "888",
+    "statement1": "On May 23, 1945, the Allied forces captured German U-boat U-234, carrying advanced technology and high-ranking Nazi officials, off the coast of New Hampshire, marking a significant victory in World War II.",
+    "statement2": "On May 23, 1945, Allied forces seized German U-boat U-234, with advanced technology and top Nazi officials, off New Hampshire's coast, a crucial win in World War II.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "889",
+    "statement1": "Jan 10, 1955: Historic meeting at the United Nations as the Security Council discusses the growing tensions in the Middle East, calling for diplomatic efforts to prevent escalation.",
+    "statement2": "On Jan 10, 1955, the Security Council met at the United Nations in New York City with the participation of 11 member states. They discussed the growing tensions in the Middle East and called for diplomatic efforts to prevent escalation.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "890",
+    "statement1": "On May 12, 1976, a powerful earthquake struck northeastern Italy, causing extensive damage to buildings and infrastructure. Numerous casualties and widespread devastation reported. Emergency response efforts underway.",
+    "statement2": "On May 12, 1976, a strong quake hit northeast Italy, causing significant damage to buildings and infrastructure, with many casualties and widespread devastation. Emergency response efforts are ongoing.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "891",
+    "statement1": "On Oct 04, 1963, the iconic TV show 'The Twilight Zone' premiered, captivating audiences with its thought-provoking narratives and timeless appeal, marking a significant moment in television history.",
+    "statement2": "On Oct 04, 1963, the iconic TV show 'The Twilight Zone' premiered, captivating audiences with its thought-provoking narratives and timeless appeal, marking a significant moment in television history. Over 8.5 million viewers tuned in to watch the debut episode, making it an instant hit.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "892",
+    "statement1": "On Jul 08, 1972, the iconic rock band, The Rolling Stones, performed for the first time in the Soviet Union, making music history with their groundbreaking concert in Moscow.",
+    "statement2": "On Jul 08, 1972, The Rolling Stones performed their first concert in the Soviet Union, making music history in Moscow.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "893",
+    "statement1": "On Nov 14, 1983, the third season of the iconic TV show The A-Team premiered, captivating audiences with its action-packed storylines and unforgettable characters.",
+    "statement2": "On Nov 14, 1983, the third season of the iconic TV show The A-Team premiered, captivating 28 million audiences with its action-packed storylines and unforgettable characters.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "894",
+    "statement1": "Sep 07, 1977: Voyager 1 spacecraft launched by NASA to explore outer planets. It became the first human-made object to enter interstellar space in 2012.",
+    "statement2": "On Sep 07, 1977, NASA launched Voyager 1 to explore outer planets, and it became the first human-made object to enter interstellar space in 2012.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "895",
+    "statement1": "On Feb 07, 1948, a historic peace agreement was signed, ending a long-standing conflict. The breakthrough treaty is set to bring stability and prosperity to the region.",
+    "statement2": "On Feb 07, 1948, a historic peace agreement was signed, ending a 40-year-long conflict. The breakthrough treaty is set to bring stability and prosperity to the region.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "896",
+    "statement1": "On Oct 27, 1984, the 13th Space Shuttle mission successfully launched from Kennedy Space Center, carrying a satellite. The mission aims to study the Earth's climate and atmospheric changes.",
+    "statement2": "On Oct 27, 1984, the 13th Space Shuttle mission launched from Kennedy Space Center with a satellite to study Earth's climate and atmospheric changes.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "897",
+    "statement1": "Jan 19, 1950: India officially adopts its constitution, embracing democracy and secularism. The historic day marks a significant milestone in India's history and paves the way for a new era.",
+    "statement2": "On January 19, 1950, India officially adopts its constitution, embracing democracy and secularism. The historic day marks a significant milestone in India's history and paves the way for a new era. The constitution was adopted by the Constituent Assembly, with 284 members signing the document.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "898",
+    "statement1": "On Oct 08, 1905, Albert Einstein introduced his theory of special relativity, reshaping our understanding of space, time, and energy, marking a turning point in modern physics.",
+    "statement2": "On Oct 08, 1905, Albert Einstein unveiled his special relativity theory, revolutionizing our grasp of space, time, and energy, and representing a pivotal moment in modern physics.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "899",
+    "statement1": "Feb 19, 2004: Historic Moon Landing Anniversary Celebrated Worldwide. Numerous events and exhibitions mark 35 years since Apollo 11 landed the first humans on the moon.",
+    "statement2": "On Feb 19, 2004, the historic Moon Landing Anniversary was celebrated worldwide to mark 35 years since Apollo 11, carrying astronauts Neil Armstrong and Buzz Aldrin, landed the first humans on the moon on July 20, 1969. Numerous events and exhibitions were organized to commemorate this momentous occasion.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "900",
+    "statement1": "Celebrations mark India's 69th Independence Day on Aug 15, 2015, with flag hoisting ceremonies, cultural events, and patriotic fervor across the nation.",
+    "statement2": "India celebrates its 69th Independence Day on Aug 15, 2015, with flag hoisting, cultural events, and patriotic spirit nationwide.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "901",
+    "statement1": "Today, Jul 17, 1930, marked the historic opening of the first FIFA World Cup in Uruguay, with 13 teams participating in the inaugural tournament, showcasing the global love for football.",
+    "statement2": "Today, Jul 17, 1930, marked the historic opening of the first FIFA World Cup in Uruguay, with 13 teams participating in the inaugural tournament, showcasing the global love for football. Over 90,000 excited spectators filled the Estadio Centenario in Montevideo to witness the event.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "902",
+    "statement1": "On Oct 03, 2016, groundbreaking medical research reveals promising results in the fight against cancer. Scientists predict a potential breakthrough in treatment options for patients worldwide.",
+    "statement2": "On Oct 03, 2016, innovative medical research shows hopeful results in combatting cancer. Scientists anticipate a possible advance in treatment choices for patients globally.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "903",
+    "statement1": "On Jul 11, 1906, the world witnessed the launch of the first electronic vacuum cleaner by Hubert Cecil Booth, revolutionizing home cleaning methods.",
+    "statement2": "On Jul 11, 1906, the world witnessed the launch of the first electronic vacuum cleaner by Hubert Cecil Booth, revolutionizing home cleaning methods. This invention increased efficiency and reduced cleaning time by up to 50%, marking a significant advancement in household technology.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "904",
+    "statement1": "Feb 01, 1921: The League of Nations accepted Sweden's application for membership, marking a significant development in international cooperation and diplomacy at the post-World War I era.",
+    "statement2": "On Feb 01, 1921, the League of Nations approved Sweden's membership, a milestone in global cooperation and diplomacy after World War I.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "905",
+    "statement1": "On December 2, 1978, a historic peace treaty was signed, ending a decades-long conflict. This momentous event brings hope for lasting reconciliation and prosperity in the region.",
+    "statement2": "On December 2, 1978, a historic peace treaty was signed, ending a decades-long conflict. This momentous event brings hope for lasting reconciliation and prosperity in the region. The treaty was the result of 14 rounds of negotiations and was signed by 5 different parties involved in the conflict.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "906",
+    "statement1": "On Jul 01, 1984, the iconic music album Purple Rain by Prince was released, captivating audiences with its blend of rock, funk, and pop, and becoming a cultural phenomenon.",
+    "statement2": "On Jul 01, 1984, the iconic music album Purple Rain by Prince was released, captivating audiences with its blend of rock, funk, and pop, and becoming a cultural phenomenon.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "907",
+    "statement1": "On Dec 13, 1971, Bangladesh gained independence from Pakistan after a nine-month struggle. The nation celebrated its victory with widespread joy and anticipation for a brighter future ahead.",
+    "statement2": "On Dec 16, 1971, Bangladesh was officially recognized as an independent nation by the international community, marking its liberation from Pakistan. The victory was the culmination of a nine-month long struggle and was a momentous occasion for the people of Bangladesh. The new nation looked forward to building a hopeful future.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "908",
+    "statement1": "Nov 13, 1942: Allied forces launch offensive in North Africa. Operation Torch commences as British and American troops invade French-controlled Morocco and Algeria.",
+    "statement2": "Nov 13, 1942: Allied forces start offensive in North Africa. Operation Torch begins with British and American troops invading French-controlled Morocco and Algeria.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "909",
+    "statement1": "On Jun 20, 1912, the Titanic inquiry concludes, finding the ship's crew at fault for the disaster. The report highlights the lack of lifeboats and failure to heed iceberg warnings.",
+    "statement2": "On Jun 20, 1912, the Titanic inquiry concludes, finding the ship's crew at fault for the disaster. The report highlights the lack of lifeboats (only 20 were available for the 2,224 passengers and crew) and failure to heed iceberg warnings, which resulted in the tragic loss of over 1,500 lives.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "910",
+    "statement1": "On Apr 12, 2007, historic climate change legislation was introduced, aiming to reduce greenhouse gas emissions. Experts believe it could have a significant impact on environmental policy worldwide.",
+    "statement2": "On Apr 12, 2007, legislation was introduced to reduce greenhouse gas emissions, with potential global impact on environmental policy according to experts.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "911",
+    "statement1": "On Nov 22, 2003, a historic peace agreement was signed, ending a decades-long conflict. Leaders from both sides expressed hope for a new era of cooperation and prosperity.",
+    "statement2": "On Nov 22, 2003, a historic peace agreement was signed, ending a decades-long conflict. Leaders from both sides expressed hope for a new era of cooperation and prosperity. The agreement was signed by 5 representatives from each side, marking a significant step towards peace.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "912",
+    "statement1": "On Dec 22, 1964, iconic civil rights activist James Farmer Jr. was awarded the Presidential Medal of Freedom for his exceptional leadership in the struggle for racial equality and justice.",
+    "statement2": "On Dec 22, 1964, James Farmer Jr., a prominent civil rights activist, was honored with the Presidential Medal of Freedom for his outstanding leadership in the fight for racial equality and justice.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "913",
+    "statement1": "On Jul 01, 1984, the iconic music album Purple Rain by Prince was released, captivating audiences with its blend of rock, funk, and pop, and becoming a cultural phenomenon.",
+    "statement2": "On Jul 01, 1984, the iconic music album Purple Rain by Prince was released, captivating audiences with its blend of rock, funk, and pop, and becoming a cultural phenomenon. The album spent 24 consecutive weeks at the top of the Billboard 200 chart and has since sold over 25 million copies worldwide.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "914",
+    "statement1": "On Jun 03, 1981, the first successful orbital launch of the Space Shuttle, the STS-1 mission, was completed by the United States. This marked a significant milestone in space exploration.",
+    "statement2": "On Jun 03, 1981, the US completed the first successful orbital launch of the Space Shuttle, the STS-1 mission, marking a significant milestone in space exploration.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "915",
+    "statement1": "May 21, 1994: Historic Peace Accord Signed - On this date, warring factions came together to sign a landmark peace agreement, ending years of conflict and offering hope for lasting peace.",
+    "statement2": "On May 21, 1994, the historic Peace Accord was signed, bringing an end to a 10-year civil war that had claimed over 75,000 lives. The peace agreement was signed in the capital city by representatives from the government and rebel forces, marking a significant turning point in the country's history.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "916",
+    "statement1": "On Apr 08, 1975, The musical Chicago premiered on Broadway. The iconic production went on to become a long-running hit with its captivating performances and unforgettable music.",
+    "statement2": "On Apr 08, 1975, the musical Chicago debuted on Broadway, becoming a long-running hit due to its captivating performances and unforgettable music.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "917",
+    "statement1": "On Sep 23, 2019, groundbreaking research unveils potential breakthrough in cancer treatment. Experts anticipate significant impact on patient care and medical advancements worldwide.",
+    "statement2": "On Sep 23, 2019, groundbreaking research unveils potential breakthrough in cancer treatment. Experts anticipate significant impact on patient care and medical advancements worldwide. The research was conducted over a span of 5 years and involved collaboration between 15 leading oncologists and 10 pharmaceutical companies.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "918",
+    "statement1": "On May 22, 1931, the historic Empire State Building officially opened its doors to the public, towering over New York City as the world's tallest building at the time.",
+    "statement2": "On May 22, 1931, the iconic Empire State Building opened to the public, dominating New York City as the world's tallest building.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "919",
+    "statement1": "On Jan 22, 2003, historic peace talks commence between neighboring countries, marking a significant milestone in diplomatic relations. Leaders express optimism for a future of cooperation and mutual understanding.",
+    "statement2": "On Jan 22, 2003, historic peace talks commence between the neighboring countries of Country A and Country B, marking a significant milestone in diplomatic relations. Leaders from both countries express optimism for a future of cooperation and mutual understanding, with  representatives from 7 different political parties attending the talks.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "920",
+    "statement1": "On Jul 12, 1991, the historic Maastricht Treaty was signed, paving the way for the European Union. This treaty aimed to create closer European economic and political integration.",
+    "statement2": "On Jul 12, 1991, the Maastricht Treaty was signed, paving the way for the European Union and aiming to create closer European economic and political integration.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "921",
+    "statement1": "On Apr 20, 1962, the first satellite navigation system, Transit 1B, was launched by the United States, marking a significant milestone in global positioning technology and space exploration.",
+    "statement2": "On Apr 20, 1962, the first satellite navigation system, Transit 1B, was launched by the United States, marking a significant milestone in global positioning technology and space exploration. This advanced system was powered by a constellation of five satellites orbiting at an altitude of approximately 1,900 kilometers above the Earth's surface.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "922",
+    "statement1": "Dec 11, 1984 marks the historic signing of the UN convention against torture.",
+    "statement2": "Dec 11, 1984 witnesses the historic signing of the UN convention against torture.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "923",
+    "statement1": "Nov 18, 2012: Historic Summit on Climate Change held in Geneva. Global leaders discuss strategies to combat rising temperatures and environmental challenges.",
+    "statement2": "On Nov 18, 2012, the Historic Summit on Climate Change, attended by 75 global leaders, was held in Geneva. Discussions revolved around strategies to combat the 2-degree Celsius rise in temperatures and escalating environmental challenges.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "924",
+    "statement1": "Nov 03, 1991: Historic peace talks commence between warring nations, signaling a potential end to years of conflict. Leaders express optimism for a positive outcome and lasting peace.",
+    "statement2": "Nov 03, 1991: Historic peace talks begin between warring nations, indicating a possible end to years of conflict. Leaders are optimistic for a positive result and lasting peace.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "925",
+    "statement1": "NASA's Opportunity rover lands on Mars on Jul 28, 2003, to search for signs of past water. It sends valuable data for 15 years until a dust storm ends its mission in 2018.",
+    "statement2": "NASA's Opportunity rover lands on Mars on July 28, 2003, to search for signs of past water. It sends valuable data for 15 years until a dust storm ends its mission on June 10, 2018.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "926",
+    "statement1": "On Jul 23, 1956, the Suez Canal crisis began as Egyptian President Gamal Abdel Nasser nationalized the canal, leading to a major international conflict involving Britain, France, and Egypt.",
+    "statement2": "On Jul 23, 1956, the Suez Canal crisis began with Egyptian President Gamal Abdel Nasser's nationalization of the canal, triggering a significant international conflict with Britain, France, and Egypt.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "927",
+    "statement1": "On Oct 17, 1915, historic peace talks began in Europe, marking a potential turning point in World War I.",
+    "statement2": "On Oct 17, 1915, historic peace talks began in Europe, marking a potential turning point in World War I. The talks involved representatives from 12 countries, and took place in the city of London.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "928",
+    "statement1": "On Apr 13, 1950, the United Nations Security Council condemned North Korea's invasion of South Korea, calling it a breach of peace, leading to the Korean War.",
+    "statement2": "On Apr 13, 1950, UN Security Council condemned North Korea's invasion of South Korea, deeming it a breach of peace, which triggered the Korean War.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "929",
+    "statement1": "On Jul 02, 1949, the World Bank was established to provide financial and technical assistance to developing countries.",
+    "statement2": "On Jul 02, 1949, the World Bank was established to provide financial and technical assistance to developing countries. Since its founding, the World Bank has provided more than $500 billion in loans and grants for various development projects in developing countries.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "930",
+    "statement1": "On Oct 05, 1906, the first feature film, The Story of the Kelly Gang, premiered in Australia. This groundbreaking film marked a significant milestone in the history of cinema.",
+    "statement2": "On Oct 05, 1906, the first feature film, The Story of the Kelly Gang, premiered in Australia, marking a significant milestone in the history of cinema.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "931",
+    "statement1": "On Nov 26, 1928, the first successful sound-synchronized animated cartoon, Steamboat Willie, was released, marking the debut of Mickey Mouse and revolutionizing the animation industry.",
+    "statement2": "On Nov 26, 1928, the first successful sound-synchronized animated cartoon, Steamboat Willie, was released, marking the debut of Mickey Mouse and revolutionizing the animation industry. The cartoon was 7 minutes long and was produced by Walt Disney.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "932",
+    "statement1": "Oct 28, 1927: Historic release of the first sound film, The Jazz Singer, marking a pioneering moment in cinema. Al Jolson's performance was a game-changer in the entertainment industry.",
+    "statement2": "Oct 28, 1927: Historic release of the first sound film, The Jazz Singer, marking a pioneering moment in cinema. Al Jolson's performance was a game-changer in the entertainment industry.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "933",
+    "statement1": "On Jun 03, 1973, NASA launched the Pioneer 10 spacecraft, paving the way for the first mission to Jupiter.",
+    "statement2": "On June 03, 1973, NASA launched the Pioneer 10 spacecraft, paving the way for the first mission to Jupiter. The spacecraft traveled a distance of over 620 million miles and transmitted data back to Earth for over 30 years after its launch.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "934",
+    "statement1": "On Nov 26, 1996, NASA's Mars Global Surveyor successfully entered orbit around Mars, marking a significant milestone in space exploration and paving the way for groundbreaking discoveries about the red planet.",
+    "statement2": "On Nov 26, 1996, NASA's Mars Global Surveyor entered Mars orbit, a major achievement in space exploration leading to significant discoveries about the red planet.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "935",
+    "statement1": "On Apr 04, 1967, the United States launched Surveyor 3 to the Moon. The spacecraft successfully landed, marking an important milestone in the exploration of space.",
+    "statement2": "On Apr 04, 1967, the United States launched Surveyor 3 to the Moon. The spacecraft, which traveled over 238,855 miles, successfully landed, marking an important milestone in the exploration of space.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "936",
+    "statement1": "On Sep 20, 1988, the historic agreement was signed, marking an important milestone in international diplomacy.",
+    "statement2": "On Sep 20, 1988, the historic agreement was signed, marking a significant milestone in global diplomacy.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "937",
+    "statement1": "On Nov 18, 1929, Amelia Earhart survives a plane crash in a New York marsh. Despite the setback, she remains determined to continue her journey as the first woman to fly across the Atlantic.",
+    "statement2": "On Nov 18, 1929, at the age of 31, Amelia Earhart survives a plane crash in a New York marsh. Despite the setback, she remains determined to continue her journey as the first woman to fly across the Atlantic.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "938",
+    "statement1": "On Mar 03, 2001, the groundbreaking film The Lord of the Rings: The Fellowship of the Ring premiered, captivating audiences with its stunning visuals and epic storytelling.",
+    "statement2": "On Mar 03, 2001, the film The Lord of the Rings: The Fellowship of the Ring premiered, enthralling viewers with its impressive visuals and heroic storytelling.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "939",
+    "statement1": "On Nov 24, 2009, groundbreaking research into climate change was published, revealing alarming trends in global temperatures. Experts urge immediate action to mitigate the impact.",
+    "statement2": "On Nov 24, 2009, groundbreaking research into climate change was published, revealing alarming trends in global temperatures. The study found that global temperatures had risen by an average of 0.74 degrees Celsius over the past century. Experts urge immediate action to mitigate the impact.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "940",
+    "statement1": "Today marks the historic discovery of DNA's double helix structure by James Watson and Francis Crick on Nov 06, 1953, revolutionizing genetics and shaping modern scientific research.",
+    "statement2": "On Nov 06, 1953, James Watson and Francis Crick made the historic discovery of DNA's double helix structure, transforming genetics and modern scientific research.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "941",
+    "statement1": "On Sep 17, 2008, Lehman Brothers filed for bankruptcy, marking the largest in U.S. history. This event triggered a global financial crisis, impacting economies worldwide.",
+    "statement2": "On Sep 17, 2008, Lehman Brothers filed for bankruptcy, marking the largest in U.S. history with debts of over $600 billion. This event triggered a global financial crisis, impacting economies worldwide.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "942",
+    "statement1": "On Mar 18, 1954, the first nuclear-powered submarine, USS Nautilus, was launched, marking a historic milestone in naval technology and paving the way for future advancements in underwater vessels.",
+    "statement2": "On Mar 18, 1954, the first nuclear-powered submarine, USS Nautilus, was launched, a landmark achievement in naval technology that influenced the development of future underwater vessels.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "943",
+    "statement1": "Nov 10, 1947: The United Nations General Assembly adopts the Partition Plan for Palestine, creating separate Jewish and Arab states, a historic decision with lasting implications.",
+    "statement2": "On Nov 10, 1947, the United Nations General Assembly adopts Resolution 181, known as the Partition Plan for Palestine, with 33 votes in favor, 13 against, 10 abstentions, and 1 absent. This historic decision led to the creation of separate Jewish and Arab states and had lasting implications for the region.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "944",
+    "statement1": "Aug 13, 1943: Allied forces capture Catania in Sicily, gaining strategic foothold. Victory marks significant progress in allied campaign against Axis powers in World War II.",
+    "statement2": "On Aug 13, 1943, Allied forces seize Catania in Sicily, securing key position. Win signals important advance in allied effort against Axis powers in World War II.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "945",
+    "statement1": "On Jun 13, 1925, the famous author, F. Scott Fitzgerald, published The Great Gatsby, becoming an influential literary work of the 20th century and capturing the spirit of the Jazz Age.",
+    "statement2": "On Jun 13, 1925, the famous author, F. Scott Fitzgerald, published The Great Gatsby, becoming the influential literary work of the 20th century and capturing the spirit of the Jazz Age. The novel initially sold only 20,000 copies.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "946",
+    "statement1": "On Feb 16, 1943, Chicago recorded its lowest temperature at -23��F, causing severe disruptions.",
+    "statement2": "On Feb 16, 1943, Chicago hit a record low of -23��F, leading to major disruptions.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "947",
+    "statement1": "On Aug 21, 1915, the Panama-Pacific International Exposition closed in San Francisco after a successful run, showcasing technological innovations, arts, and culture from around the world.",
+    "statement2": "On Aug 21, 1915, the Panama-Pacific International Exposition closed in San Francisco after a successful six-month run, showcasing technological innovations, arts, and culture from 21 different countries around the world.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "948",
+    "statement1": "On Jun 17, 1935, the groundbreaking Dust Bowl storm enveloped the Midwest, causing widespread devastation and contributing to the Great Depression's toll on American agriculture and livelihoods.",
+    "statement2": "On Jun 17, 1935, the Dust Bowl storm hit the Midwest, causing widespread devastation and adding to the Great Depression's impact on American agriculture and livelihoods.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "949",
+    "statement1": "On Feb 12, 1967, Purple Haze by Jimi Hendrix entered the Billboard Hot 100 chart, marking a significant moment in rock music history.",
+    "statement2": "On Feb 12, 1967, Purple Haze by Jimi Hendrix entered the Billboard Hot 100 chart at number 88, marking a significant moment in rock music history.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "950",
+    "statement1": "On Nov 28, 1981, the first female Prime Minister of Norway, Gro Harlem Brundtland, took office, making history as the youngest and first woman to hold the position.",
+    "statement2": "On Nov 28, 1981, Gro Harlem Brundtland became Norway's first female Prime Minister, making history as the youngest and first woman in the position.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "951",
+    "statement1": "May 12, 1976 - A significant earthquake strikes northern Italy, causing widespread damage and loss of life.",
+    "statement2": "On May 12, 1976, a magnitude 6.5 earthquake strikes northern Italy, causing widespread damage and resulting in the deaths of over 900 people.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "952",
+    "statement1": "On Mar 08, 1923, the Egyptian University was established, marking a milestone in Egypt's education system. Celebrations were held to honor the occasion and the university's promising future.",
+    "statement2": "On Mar 08, 1923, the Egyptian University was established, signifying a significant development in Egypt's education. Celebrations were conducted to commemorate the occasion and the university's bright prospects.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "953",
+    "statement1": "On Aug 04, 2024, scientists announce a breakthrough in renewable energy technology, promising to revolutionize the global energy landscape.",
+    "statement2": "On Aug 04, 2024, scientists announce a 25% increase in solar energy conversion efficiency, promising to revolutionize the global energy landscape.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "954",
+    "statement1": "On Jul 11, 1958, NASA formed to oversee U.S. space research and developments. The agency's creation marks a significant milestone in the nation's commitment to space exploration and technology advancement.",
+    "statement2": "On Jul 11, 1958, NASA was established to supervise U.S. space research and development, representing a major milestone in the nation's dedication to space exploration and technological progress.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "955",
+    "statement1": "Sep 14, 1943: Allies land in Italy during World War II. Despite strong German resistance, the operation marks a pivotal turning point in the campaign to oust Axis forces from the country.",
+    "statement2": "On Sep 14, 1943, 3 divisions of Allied troops landed in Italy during World War II. Despite strong German resistance, the operation marks a pivotal turning point in the campaign to oust Axis forces from the country.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "956",
+    "statement1": "On Aug 06, 1950, Korean War breaks out as North Korea invades South Korea. International tensions rise as the conflict escalates, drawing in major world powers.",
+    "statement2": "On Aug 06, 1950, Korean War starts with North Korea attacking South Korea, causing an increase in international tensions as major world powers become involved as the conflict intensifies.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "957",
+    "statement1": "On Jul 13, 1980, the historic Wimbledon Men's Singles Final took place, with Bjorn Borg defeating John McEnroe in a five-set thriller, securing his fifth straight title at the event.",
+    "statement2": "On Jul 13, 1980, the historic Wimbledon Men's Singles Final took place, with Bjorn Borg defeating John McEnroe in a five-set thriller (1-6, 7-5, 6-3, 6-7, 8-6), securing his fifth straight title at the event.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "958",
+    "statement1": "On May 22, 1927, Charles Lindbergh completes the first solo nonstop transatlantic flight, traveling from New York to Paris in the Spirit of St. Louis.",
+    "statement2": "On May 22, 1927, Charles Lindbergh completes the first solo nonstop transatlantic flight, flying from New York to Paris in the Spirit of St. Louis.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "959",
+    "statement1": "On Oct 07, 2002, a historic peace agreement was signed, ending a decades-long conflict. The accord is expected to bring relief and hope to the war-torn region.",
+    "statement2": "On Oct 07, 2002, a historic peace agreement was signed by 15 political leaders, ending a decades-long conflict that had claimed over 50,000 lives. The accord is expected to bring relief and hope to the war-torn region, which has seen over 1 million people displaced.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "960",
+    "statement1": "Oct 03, 2023: Global tech summit to be held virtually, addressing future advancements in AI, cybersecurity, and sustainable energy. Experts worldwide to convene for groundbreaking discussions and innovations.",
+    "statement2": "Oct 03, 2023: Global tech summit to be held virtually, covering future AI, cybersecurity, and sustainable energy advancements. International experts to gather for pioneering discussions and innovations.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "961",
+    "statement1": "On Apr 27, 1955, Albert Einstein's death anniversary was commemorated worldwide with tributes to the renowned physicist whose legacy continues to inspire and shape the fields of science and academia.",
+    "statement2": "On Apr 27, 1955, Albert Einstein's death anniversary was commemorated worldwide with tributes to the renowned physicist whose legacy continues to inspire and shape the fields of science and academia. More than 500,000 people attended memorial events, and over 100 universities held special lectures and seminars in honor of Einstein's contributions.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "962",
+    "statement1": "On Aug 02, 1981, MTV premiered, transforming the music industry with 24-hour music videos. This marked a revolutionary moment in television and popular culture.",
+    "statement2": "On Aug 02, 1981, MTV debuted, revolutionizing the music industry with round-the-clock music videos, marking a pivotal moment in TV and pop culture.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "963",
+    "statement1": "On Jun 02, 1928, Amelia Earhart becomes the first woman to fly across the Atlantic Ocean. Her historic achievement marks a milestone in aviation history.",
+    "statement2": "On Jun 02, 1928, Amelia Earhart becomes the first woman to fly across the Atlantic Ocean, covering a distance of approximately 2,026 miles. Her historic achievement marks a milestone in aviation history.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "964",
+    "statement1": "Feb 08, 1964: The Beatles make history with their first appearance on The Ed Sullivan Show, captivating American audiences and kick-starting the British Invasion of rock 'n' roll.",
+    "statement2": "On Feb 08, 1964, The Beatles appear on The Ed Sullivan Show and spark the British Invasion of rock 'n' roll in the US.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "965",
+    "statement1": "On Oct 24, 1913, The New York City Subway officially opened, revolutionizing urban transit. Commuters and tourists alike can now navigate the city more efficiently than ever before.",
+    "statement2": "On Oct 24, 1913, The New York City Subway officially opened, revolutionizing urban transit. Commuters and tourists alike can now navigate the city more efficiently than ever before. The subway system initially consisted of 28 stations and 9.1 miles of track.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "966",
+    "statement1": "Mar 13, 1935: Historic flood devastates Ohio, causing widespread damage and displacement. Officials urge residents to seek higher ground as water levels continue to rise.",
+    "statement2": "Mar 13, 1935: Historic flood ravages Ohio, causing extensive damage and displacement. Officials advise residents to move to higher ground due to rising water levels.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "967",
+    "statement1": "On Jan 20, 1969, Richard Nixon inaugurated as the 37th President of the United States, promising to bring peace and unity to a divided nation.",
+    "statement2": "On Jan 20, 1969, Richard Nixon was inaugurated as the 37th President of the United States, promising to bring peace and unity to a divided nation. The inauguration ceremony took place in Washington D.C. at the U.S. Capitol Building, with an estimated 600,000 people in attendance.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "968",
+    "statement1": "NASA's Messenger spacecraft makes first flyby of Mercury on Jan 10, 2009, providing unprecedented close-up images and scientific data about the planet's surface and environment.",
+    "statement2": "On Jan 10, 2009, NASA's Messenger spacecraft conducted the initial flyby of Mercury, supplying unprecedented close-up images and scientific data about the planet's surface and environment.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "969",
+    "statement1": "On Jan 13, 1927, the groundbreaking silent film The Jazz Singer premiered, marking the dawn of sound in cinema. This iconic moment in film history forever changed the landscape of entertainment.",
+    "statement2": "On Jan 13, 1927, the groundbreaking silent film The Jazz Singer premiered, marking the dawn of sound in cinema. This iconic moment in film history forever changed the landscape of entertainment. The film was directed by Alan Crosland and starred Al Jolson, and it was the first feature-length motion picture with synchronized dialogue sequences.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "970",
+    "statement1": "On May 25, 2012, a historic agreement was signed between two nations, marking a significant milestone in diplomatic relations and paving the way for future collaboration and cooperation.",
+    "statement2": "On May 25, 2012, a historic agreement was signed between two nations, marking a significant milestone in diplomatic relations and paving the way for future collaboration and cooperation.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "971",
+    "statement1": "On May 11, 1975, the historic Apollo-Soyuz Test Project was announced, marking the first joint US-Soviet manned space mission, signifying a diplomatic milestone in space exploration.",
+    "statement2": "On May 11, 1975, the historic Apollo-Soyuz Test Project was announced, marking the first joint US-Soviet manned space mission, signifying a diplomatic milestone in space exploration. The mission brought together three American astronauts from NASA and two cosmonauts from the Soviet space program.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "972",
+    "statement1": "On Sep 23, 1997, NASA's Mars Global Surveyor successfully entered Mars' orbit, beginning its mission to map the planet's surface and study its climate and magnetic properties.",
+    "statement2": "On Sep 23, 1997, NASA's MGS successfully entered Mars' orbit, starting its mission to map the planet's surface and study its climate and magnetic properties.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "973",
+    "statement1": "On Jan 13, 1923, the groundbreaking insulin treatment for diabetes was first administered at the University of Toronto, offering hope to millions worldwide.",
+    "statement2": "On Jan 13, 1923, the groundbreaking insulin treatment for diabetes was first administered at the University of Toronto, offering hope to millions worldwide. This treatment was a pivotal moment in medical history and has since saved the lives of countless individuals suffering from diabetes.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "974",
+    "statement1": "On Dec 02, 1933, Prohibition officially ended with the ratification of the 21st Amendment. The historic event marks the repeal of the 18th Amendment and the return of legal alcohol sales.",
+    "statement2": "On Dec 02, 1933, Prohibition ended with the ratification of the 21st Amendment, repealing the 18th Amendment and allowing legal alcohol sales to resume.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "975",
+    "statement1": "On May 13, 1917, three shepherd children reported seeing the Virgin Mary in Fatima, Portugal, attracting widespread attention and sparking a series of apparitions, making headlines around the world.",
+    "statement2": "On May 13, 1917, three shepherd children (ages 10, 9, and 7) reported seeing the Virgin Mary in Fatima, Portugal, attracting widespread attention and sparking a series of apparitions, making headlines around the world.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "976",
+    "statement1": "On Aug 06, 1926, the iconic magician Harry Houdini performed his final show in Montreal before his untimely death later that year, leaving a lasting legacy in the world of magic.",
+    "statement2": "On Aug 06, 1926, the iconic magician Harry Houdini gave his last performance in Montreal before his early death later that year, leaving a lasting legacy in the magic world.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "977",
+    "statement1": "Aug 10, 2017: Global tech giant unveils groundbreaking innovation in renewable energy sector, promising to revolutionize sustainability efforts worldwide.",
+    "statement2": "On Aug 10, 2017, the global tech giant, XYZ Corp, unveiled a groundbreaking innovation in the renewable energy sector, promising to revolutionize sustainability efforts worldwide. They announced a $100 million investment in research and development for this initiative.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "978",
+    "statement1": "On Nov 26, 2023, world leaders gather for a climate summit to discuss urgent measures to combat global warming. This summit aims to push for substantial changes in environmental policies worldwide.",
+    "statement2": "On Nov 26, 2023, global leaders convene for a climate summit to address pressing actions against global warming. The summit seeks to advocate significant shifts in global environmental policies.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "979",
+    "statement1": "On Jul 08, 1960, Ghana gained independence from British colonial rule, marking a historic moment for the nation and its people as they celebrated newfound sovereignty and freedom.",
+    "statement2": "On Jul 08, 1960, Ghana gained independence from 113 years of British colonial rule, marking a historic moment for the nation and its  population of over 6 million people as they celebrated newfound sovereignty and freedom.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "980",
+    "statement1": "On Jul 23, 1928, Amelia Earhart became the first woman to fly across the Atlantic. Her historic feat marks a significant moment in aviation history.",
+    "statement2": "On Jul 23, 1928, Amelia Earhart achieved the first female transatlantic flight, marking a pivotal moment in aviation history.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "981",
+    "statement1": "On Mar 12, 1916, suffragette Emmeline Pankhurst, a leading figure in the British women's suffrage movement, delivered a rousing speech in Hartford, Connecticut, advocating for women's right to vote.",
+    "statement2": "On Mar 12, 1916, suffragette Emmeline Pankhurst, a leading figure in the British women's suffrage movement, delivered a rousing speech in Hartford, Connecticut, advocating for women's right to vote in front of a crowd of over 500 people.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "982",
+    "statement1": "On Mar 11, 1970, Apollo 13 astronauts were announced for the upcoming mission to the moon. The team includes Jim Lovell, Fred Haise, and Jack Swigert.",
+    "statement2": "On Mar 11, 1970, Apollo 13 astronauts were announced for the upcoming moon mission. The team includes Jim Lovell, Fred Haise, and Jack Swigert.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "983",
+    "statement1": "On Feb 20, 1901, the United States was mourning the death of Queen Victoria, who had reigned for over 60 years, marking the end of an era for the British Empire.",
+    "statement2": "On Feb 20, 1901, the United States was mourning the death of Queen Victoria, who had reigned for over 60 years, marking the end of an era for the British Empire. Over 400,000 people lined the streets of London for her funeral procession, reflecting the widespread impact of her reign.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "984",
+    "statement1": "On Dec 21, 1901, Marconi sends the first transatlantic radio signal, marking a seminal moment in global communication.",
+    "statement2": "On Dec 21, 1901, Marconi sent the first transatlantic radio signal, a groundbreaking moment for global communication.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "985",
+    "statement1": "On Dec 24, 1984, the first successful liver transplant from a living donor was performed at the University of Chicago Medical Center, marking a significant breakthrough in medical history.",
+    "statement2": "On Dec 24, 1984, the first successful liver transplant from a living donor was performed at the University of Chicago Medical Center, marking a significant breakthrough in medical history. The recipient of the transplant, a 54-year-old patient named Thomas Starzl, had been waiting for a donor liver for over 18 months. The surgery lasted 14 hours and involved a team of 20 medical professionals.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "986",
+    "statement1": "On Mar 26, 1951, the United States announced nuclear testing in Nevada, raising concerns about environmental and health impacts.",
+    "statement2": "On Mar 26, 1951, the US announced nuclear testing in Nevada, sparking concerns about environmental and health effects.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "987",
+    "statement1": "On Oct 23, 1927, the record-breaking flight of aviator Charles Lindbergh from New York to Paris was celebrated worldwide, marking a historic achievement in aviation history.",
+    "statement2": "On Oct 23, 1927, the record-breaking flight of aviator Charles Lindbergh from New York to Paris, which covered a distance of 3,610 miles, was celebrated worldwide, marking a historic achievement in aviation history.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "988",
+    "statement1": "Scientists make history with the first successful human trial of malaria vaccine.",
+    "statement2": "Scientists make history with 1st successful human trial of malaria vaccine.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "989",
+    "statement1": "Elon Musk announces plans to create a second SpaceX Starship production facility in Texas, aiming to accelerate the company's space travel missions and expand its reach into the cosmos.",
+    "statement2": "Elon Musk announces plans to create a second SpaceX Starship production facility in Texas, aiming to accelerate the company's space travel missions and expand its reach into the cosmos. This move comes as SpaceX looks to invest $200 million in the new facility and hire an additional 500 employees to support production and operations.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "990",
+    "statement1": "A local team secures third place in national robotics competition, showcasing their innovative design and teamwork skills. Their achievement marks a significant milestone for the school's STEM program.",
+    "statement2": "A local team takes third place in national robotics competition, demonstrating their innovative design and teamwork skills, a significant milestone for the school's STEM program.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "991",
+    "statement1": "Fourth COVID-19 vaccine receives emergency use authorization, offering hope for increased supply. Experts optimistic about fourth wave mitigation as vaccination efforts continue to ramp up nationwide.",
+    "statement2": "The Johnson & Johnson COVID-19 vaccine has received emergency use authorization, adding to the three previously authorized vaccines. Experts now have more options to ramp up vaccination efforts and mitigate the fourth wave of COVID-19.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "992",
+    "statement1": "NASA's Perseverance Rover successfully collects fifth rock sample on Mars, marking a significant milestone in its scientific exploration of the red planet's geology and history.",
+    "statement2": "NASA's Perseverance Rover gathers fifth rock sample on Mars, reaching a notable milestone in its study of the planet's geology and history.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "993",
+    "statement1": "Sixth annual charity run raises over $50,000 for local homeless shelter. Participants from six neighboring towns join forces to support the cause and make a difference in their community.",
+    "statement2": "The sixth annual charity run attracts 300 participants from six neighboring towns and raises over $50,000 for the local homeless shelter.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "994",
+    "statement1": "Johnson wins seventh consecutive championship title in the world of cycling, solidifying his status as one of the greatest athletes in the sport's history.",
+    "statement2": "Johnson wins 7th consecutive championship in cycling, confirming his status as one of the sport's greatest athletes.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "995",
+    "statement1": "Duncan Robinson scores career-high 39 points as Miami Heat defeat Milwaukee Bucks in eighth consecutive win.",
+    "statement2": "nDuncan Robinson scores career-high 39 points as Miami Heat defeat Milwaukee Bucks 135-118 in eighth consecutive win.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "996",
+    "statement1": "In the ninth annual charity run, participants raise over $50,000 for local shelters. The event marked its largest turnout yet, drawing in over 500 eager runners and volunteers.",
+    "statement2": "In the 9th annual charity run, participants raised over $50,000 for local shelters. The event had its largest turnout yet, with over 500 eager runners and volunteers.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "997",
+    "statement1": "Local student scores twice in soccer game, leading team to victory. Coach impressed with player's skill and determination.",
+    "statement2": "Local student #8 scores twice in soccer game, leading team to a 3-1 victory. Coach impressed with player's #8 skill and determination.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  },
+  {
+    "task": "RTE",
+    "id": "998",
+    "statement1": "Local bakery to celebrate its anniversary by giving away a dozen free cupcakes to the first 100 customers.",
+    "statement2": "Local bakery to mark anniversary with free dozen cupcakes for first 100 customers.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option1. #### 1"
+  },
+  {
+    "task": "RTE",
+    "id": "999",
+    "statement1": "First-time homebuyers receive tax credit as part of government's new housing stimulus package.",
+    "statement2": "First-time homebuyers receive a $5,000 tax credit as part of the government's new housing stimulus package.",
+    "option1": "Entailment",
+    "option2": "neutral",
+    "label": "Thus, the answer is option2. #### 2"
+  }
+]
